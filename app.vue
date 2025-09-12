@@ -13,6 +13,9 @@
         <SolutionSection />
       </Transition>
       <Transition name="slide-up" appear>
+        <NetworkSection />
+      </Transition>
+      <Transition name="slide-up" appear>
         <BenefitsSection />
       </Transition>
       <Transition name="slide-up" appear>
@@ -41,6 +44,7 @@ import HeaderSection from '~/components/HeaderSection.vue'
 import HeroSection from '~/components/HeroSection.vue'
 import ProblemSection from '~/components/ProblemSection.vue'
 import SolutionSection from '~/components/SolutionSection.vue'
+import NetworkSection from '~/components/NetworkSection.vue'
 import BenefitsSection from '~/components/BenefitsSection.vue'
 import HowItWorksSection from '~/components/HowItWorksSection.vue'
 import UseCasesSection from '~/components/UseCasesSection.vue'

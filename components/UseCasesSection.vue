@@ -3,11 +3,11 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-4xl font-bold text-gray-900 mb-6">
-          Powering Every Use Case
+          Instant insights. Smarter decisions. Happier merchants.
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-gray-600 leading-relaxed">
-          From fintech to marketing automation, Metristack enables innovative solutions 
-          across the retail ecosystem.
+          From fintech to analytics, Metristack gives you the commerce data foundation 
+          to build products that solve real problems for retail businesses.
         </p>
       </div>
       

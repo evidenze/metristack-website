@@ -12,54 +12,54 @@
           <svg class="w-4 h-4 mr-2 transition-transform duration-300" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
           </svg>
-          Trusted by 500+ merchants
+          Trusted by 500+ fintech & B2B companies
         </div>
         
-        <!-- Main headline - SEO optimized with keywords -->
+        <!-- Main headline - More impactful -->
         <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
-          Unified Retail API for
-          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">Commerce Data Integration</span>
+          One API for all
+          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">retail data</span>
         </h1>
         
-        <!-- Subheadline - SEO focused with key terms -->
+        <!-- Subheadline - Unique retail focus -->
         <p class="max-w-3xl mx-auto text-xl text-gray-600 mb-10 leading-relaxed stagger-item">
-          Connect to Shopify, Square, Clover & 20+ commerce platforms with one API. 
-          Access sales data, inventory management, and customer analytics instantly. 
-          Build retail integrations 10x faster than traditional methods.
+        Metristack connects you to sales, inventory, orders, and customers across POS, e-commerce, and marketplaces with one API. Build lending, analytics, 
+          and business tools that merchants actually want to use.
+
         </p>
         
-        <!-- CTA buttons - Stripe style -->
+        <!-- CTA buttons - B2B focused -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16 stagger-item">
           <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-stripe hover:shadow-stripe-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">
-            Get API keys free
+            Get API Keys Free
             <svg class="inline-block ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
             </svg>
           </button>
           <button class="group relative w-full sm:w-auto bg-white hover:bg-gray-50 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 border border-gray-200 shadow-stripe-sm hover:shadow-stripe focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 hover-lift">
-            View documentation
+            View Documentation
           </button>
         </div>
         
-        <!-- Trust indicators - Stripe minimalist style -->
+        <!-- Trust indicators - B2B focused -->
         <div class="flex flex-col sm:flex-row items-center justify-center space-y-2 sm:space-y-0 sm:space-x-8 text-sm text-gray-500 mb-16 stagger-item">
           <div class="flex items-center transition-all duration-300 hover:text-success-600">
             <svg class="w-4 h-4 mr-2 text-success-500 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
             </svg>
-            <span>No credit card required</span>
+            <span>Free to get started</span>
           </div>
           <div class="flex items-center">
             <svg class="w-4 h-4 mr-2 text-success-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
             </svg>
-            <span>5-minute setup</span>
+            <span>5-minute integration</span>
           </div>
           <div class="flex items-center">
             <svg class="w-4 h-4 mr-2 text-success-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
             </svg>
-            <span>99.9% uptime SLA</span>
+            <span>Launch in weeks, not months</span>
           </div>
         </div>
       </div>

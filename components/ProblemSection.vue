@@ -3,12 +3,12 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
-          Building Commerce Platform Integrations
-          <span class="text-primary-500">Shouldn't Drain Development Resources</span>
+          Building Retail Integrations 
+          <span class="text-primary-500">Is Killing Your Timeline</span>
         </h2>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-          Every retail platform integration requires custom authentication, unique rate limiting, and different data formats. 
-          Development teams spend 3-6 months building what should take days with a unified API solution.
+          Every B2B company building for retail faces the same nightmare: months of integration work, 
+          inconsistent APIs, and delayed product launches. Your competitors are already shipping.
         </p>
       </div>
       
@@ -17,39 +17,39 @@
         <div class="bg-white rounded-xl border border-gray-200 p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 hover-lift stagger-item">
           <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-6 transition-all duration-300 hover:bg-red-200 hover:scale-110">
             <svg class="w-6 h-6 text-red-600 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"></path>
             </svg>
           </div>
           <h3 class="text-xl font-semibold text-gray-900 mb-4 transition-colors duration-300 hover:text-red-600">Complex Authentication</h3>
           <p class="text-gray-600 leading-relaxed transition-colors duration-300">
-            OAuth flows, API keys, webhooks setup. Each platform requires different 
-            authentication methods and security protocols.
+            Each retail platform has different OAuth flows, API keys, and authentication methods. 
+            Your team wastes weeks figuring out each integration.
           </p>
         </div>
         
         <div class="bg-white rounded-xl border border-gray-200 p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 hover-lift stagger-item">
           <div class="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center mb-6 transition-all duration-300 hover:bg-orange-200 hover:scale-110">
             <svg class="w-6 h-6 text-orange-600 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z"></path>
             </svg>
           </div>
           <h3 class="text-xl font-semibold text-gray-900 mb-4 transition-colors duration-300 hover:text-orange-600">Rate Limit Management</h3>
           <p class="text-gray-600 leading-relaxed transition-colors duration-300">
-            Each API has different rate limits, retry logic, and error handling. 
-            Building robust systems takes significant engineering time.
+            Shopify has different rate limits than Square, Clover has different patterns than BigCommerce. 
+            Your engineers spend months handling edge cases instead of building features.
           </p>
         </div>
         
         <div class="bg-white rounded-xl border border-gray-200 p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 hover-lift stagger-item">
           <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-6 transition-all duration-300 hover:bg-purple-200 hover:scale-110">
             <svg class="w-6 h-6 text-purple-600 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.58 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.58 4 8 4s8-1.79 8-4M4 7c0-2.21 3.58-4 8-4s8 1.79 8 4"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
             </svg>
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-4">Data Inconsistencies</h3>
-          <p class="text-gray-600 leading-relaxed">
-            Every platform returns data in different formats. Normalization and 
-            transformation logic needs to be built for each integration.
+          <h3 class="text-xl font-semibold text-gray-900 mb-4 transition-colors duration-300 hover:text-purple-600">Data Inconsistencies</h3>
+          <p class="text-gray-600 leading-relaxed transition-colors duration-300">
+            Products, orders, and customer data have different field names, formats, and structures 
+            across platforms. Normalizing data becomes a full-time job.
           </p>
         </div>
       </div>
