@@ -4,13 +4,13 @@
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold mb-6">
           <span class="bg-gradient-to-tr from-plaid-accent via-plaid-primary-400 to-plaid-accent bg-clip-text text-transparent">
-            Connecting African retail data at scale
+            Building Africa's retail data infrastructure
           </span>
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary">
-          Every new data source we connect strengthens the entire ecosystem. Rich transaction 
-          data that was previously inaccessible becomes available to developers, creating 
-          exponential value as the network grows.
+          Every new platform we connect strengthens the network for everyone. Rich transaction 
+          data that was previously inaccessible becomes part of a unified layer, creating 
+          exponential value as Africa's retail data network grows.
         </p>
       </div>
       
@@ -37,7 +37,7 @@
         <div class="text-center">
           <div class="text-4xl font-bold text-plaid-primary mb-2">99.9%</div>
           <div class="text-lg font-semibold text-plaid-text-primary mb-1">uptime reliability</div>
-          <div class="text-sm text-plaid-text-muted">Enterprise-grade infrastructure</div>
+          <div class="text-sm text-plaid-text-muted">Enterprise-grade platform</div>
         </div>
       </div>
 
@@ -47,7 +47,7 @@
         <div class="absolute inset-0 opacity-5 bg-plaid-network"></div>
         
         <h3 class="text-2xl font-semibold text-plaid-text-primary text-center mb-8 relative z-10">
-          Live data connections happening right now
+          API connections happening right now
         </h3>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto relative z-10">

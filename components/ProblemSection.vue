@@ -34,10 +34,11 @@
             </svg>
           </div>
           <h3 class="text-xl font-semibold text-gray-900 mb-4 transition-colors duration-300 hover:text-orange-600">Closed Systems</h3>
-          <p class="text-gray-600 leading-relaxed transition-colors duration-300">
-            African retail systems were built for local use, not data sharing. 
-            Rich transaction histories remain locked away with no extraction methods.
-          </p>
+                          <p class="text-lg text-plaid-text-muted leading-relaxed max-w-3xl mx-auto">
+          The connections to African retail data simply don't exist. 
+          Platforms operate in isolation. Data stays locked away. 
+          Innovation stagnates while opportunities disappear.
+        </p>
         </div>
         
         <div class="bg-white rounded-xl border border-gray-200 p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 hover-lift stagger-item">

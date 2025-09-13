@@ -5,9 +5,9 @@
         <h2 class="text-4xl font-bold text-plaid-text-primary mb-6">
           Built by developers, loved by businesses
         </h2>
-        <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary leading-relaxed">
+                <p class="text-lg text-plaid-text-muted leading-relaxed max-w-3xl mx-auto mb-16">
           Companies across industries rely on Metristack to access retail data 
-          and create products that merchants actually want to use.
+          from across Africa. Our unified API powers breakthrough applications.
         </p>
       </div>
       

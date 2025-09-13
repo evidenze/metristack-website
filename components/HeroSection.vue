@@ -23,10 +23,9 @@
         </h1>
         
         <!-- Subheadline - Emphasizes enabling new connections -->
-        <p class="max-w-3xl mx-auto text-xl text-gray-600 mb-10 leading-relaxed stagger-item">
-          Rich transaction data sits in African retail platforms with no way to access it. 
-          Metristack changes that. One integration gives you sales, inventory, and customer data 
-          from POS systems, e-commerce platforms, and marketplaces across Africa.
+                <p class="text-lg text-plaid-text-muted leading-relaxed max-w-2xl mx-auto">
+          Metristack changes that. One integration connects you to sales, inventory, and customer data 
+          from 20+ African retail platforms. Real-time insights that drive growth.
         </p>
         
         <!-- CTA buttons - Plaid focused -->

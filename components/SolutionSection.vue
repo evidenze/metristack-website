@@ -3,11 +3,12 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
-          Access the data. <span class="text-primary-500">Connect to everything.</span>
+          The infrastructure layer. <span class="text-primary-500">For all African retail data.</span>
         </h2>
-        <p class="max-w-3xl mx-auto text-xl text-gray-600">
-          Metristack transforms inaccessible retail data into accessible APIs. Our unified interface provides instant access to valuable transaction data 
-          from closed systems across African retail platforms, giving you previously unreachable insights.
+                <p class="text-lg text-plaid-text-muted leading-relaxed max-w-3xl mx-auto mb-8">
+          Metristack is the unified API that connects you to African retail platforms. Our data layer provides standardized access to transaction data 
+          from e-commerce sites, POS systems, and merchant platforms across Africa. 
+          One integration unlocks the entire ecosystem.
         </p>
       </div>
       
@@ -108,9 +109,9 @@
       
       <!-- Supported Platforms - Stripe style -->
       <div class="bg-gray-50 rounded-2xl p-8 lg:p-12 mb-20">
-        <h3 class="text-2xl font-semibold text-gray-900 text-center mb-8">
-          Transform closed systems into accessible APIs
-        </h3>
+                <div class="text-center mb-4">
+          <p class="text-plaid-text-muted font-medium">The unified API that connects everything</p>
+        </div>
         <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
           <div class="bg-white rounded-lg p-4 shadow-stripe-sm text-center hover:shadow-stripe transition-shadow duration-200">
             <div class="font-semibold text-gray-900 text-sm mb-1">Shopify</div>
