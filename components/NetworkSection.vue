@@ -1,82 +1,87 @@
 <template>
-  <section class="py-24 bg-white">
+  <section class="py-24 bg-gradient-to-br from-plaid-background via-white to-plaid-primary-50/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
-          The retail data ecosystem <span class="text-primary-500">grows stronger daily</span>
+        <h2 class="text-3xl sm:text-4xl font-semibold mb-6">
+          <span class="bg-gradient-to-tr from-plaid-accent via-plaid-primary-400 to-plaid-accent bg-clip-text text-transparent">
+            The retail data ecosystem grows stronger daily
+          </span>
         </h2>
-        <p class="max-w-3xl mx-auto text-xl text-gray-600">
+        <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary">
           Built on the most comprehensive retail integration platform, every connection 
           strengthens the entire ecosystem. New platforms, enhanced data quality, 
           and smarter insights flow to every developer automatically.
         </p>
       </div>
       
-      <!-- Network Stats - Plaid style -->
+            <!-- Network Stats - Plaid style -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-20">
         <div class="text-center">
-          <div class="text-4xl font-bold text-primary-600 mb-2">20+</div>
-          <div class="text-lg font-semibold text-gray-900 mb-1">retail platforms</div>
-          <div class="text-sm text-gray-600">Connect to every major system</div>
+          <div class="text-4xl font-bold text-plaid-primary mb-2">20+</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">retail platforms</div>
+          <div class="text-sm text-plaid-text-muted">Connect to every major system</div>
         </div>
         
         <div class="text-center">
-          <div class="text-4xl font-bold text-primary-600 mb-2">10x</div>
-          <div class="text-lg font-semibold text-gray-900 mb-1">faster integration</div>
-          <div class="text-sm text-gray-600">Ship features in days, not months</div>
+          <div class="text-4xl font-bold text-plaid-primary mb-2">10x</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">faster integration</div>
+          <div class="text-sm text-plaid-text-muted">Ship features in days, not months</div>
         </div>
         
         <div class="text-center">
-          <div class="text-4xl font-bold text-primary-600 mb-2">1000+</div>
-          <div class="text-lg font-semibold text-gray-900 mb-1">daily API calls</div>
-          <div class="text-sm text-gray-600">Get data from growing connections</div>
+          <div class="text-4xl font-bold text-plaid-primary mb-2">1000+</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">daily API calls</div>
+          <div class="text-sm text-plaid-text-muted">Get data from growing connections</div>
         </div>
         
         <div class="text-center">
-          <div class="text-4xl font-bold text-primary-600 mb-2">99.9%</div>
-          <div class="text-lg font-semibold text-gray-900 mb-1">uptime reliability</div>
-          <div class="text-sm text-gray-600">Enterprise-grade infrastructure</div>
+          <div class="text-4xl font-bold text-plaid-primary mb-2">99.9%</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">uptime reliability</div>
+          <div class="text-sm text-plaid-text-muted">Enterprise-grade infrastructure</div>
         </div>
       </div>
 
       <!-- Live Activity Feed - Inspired by Plaid -->
-      <div class="bg-gray-50 rounded-2xl p-8 lg:p-12">
-        <h3 class="text-2xl font-semibold text-gray-900 text-center mb-8">
+      <div class="bg-gradient-to-br from-plaid-primary-50 to-white rounded-3xl p-8 lg:p-12 border border-plaid-primary-100 shadow-plaid-lg relative overflow-hidden">
+        <!-- Background gradient overlay using Plaid's exact network gradient -->
+        <div class="absolute inset-0 opacity-5 bg-plaid-network"></div>
+        
+        <h3 class="text-2xl font-semibold text-plaid-text-primary text-center mb-8 relative z-10">
           Live integrations happening right now
         </h3>
         
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto relative z-10">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
-              <div class="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center mr-3">
-                <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+              <div class="w-8 h-8 bg-plaid-success-light rounded-full flex items-center justify-center mr-3">
+                <svg class="w-4 h-4 text-plaid-success" fill="currentColor" viewBox="0 0 20 20">
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">LendingCorp</div>
-                <div class="text-xs text-gray-500">2m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">LendingCorp</div>
+                <div class="text-xs text-plaid-text-muted">2m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">New Shopify integration connected</div>
+            <div class="text-sm text-plaid-text-secondary">New Shopify integration connected</div>
           </div>
           
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
-              <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center mr-3">
-                <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
+              <div class="w-8 h-8 bg-plaid-accent-light rounded-full flex items-center justify-center mr-3">
+                <svg class="w-4 h-4 text-plaid-accent" fill="currentColor" viewBox="0 0 20 20">
                   <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path>
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">AnalyticsPro</div>
-                <div class="text-xs text-gray-500">5m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">AnalyticsPro</div>
+                <div class="text-xs text-plaid-text-muted">5m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">Transaction sync completed ✅</div>
+            <div class="text-sm text-plaid-text-secondary">Transaction sync completed ✅</div>
           </div>
           
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
               <div class="w-8 h-8 bg-purple-100 rounded-full flex items-center justify-center mr-3">
                 <svg class="w-4 h-4 text-purple-600" fill="currentColor" viewBox="0 0 20 20">
@@ -84,14 +89,14 @@
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">QuickBooks Plugin</div>
-                <div class="text-xs text-gray-500">8m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">QuickBooks Plugin</div>
+                <div class="text-xs text-plaid-text-muted">8m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">Inventory data synced from Square</div>
+            <div class="text-sm text-plaid-text-secondary">Inventory data synced from Square</div>
           </div>
           
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
               <div class="w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center mr-3">
                 <svg class="w-4 h-4 text-orange-600" fill="currentColor" viewBox="0 0 20 20">
@@ -99,14 +104,14 @@
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">RetailBank</div>
-                <div class="text-xs text-gray-500">12m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">RetailBank</div>
+                <div class="text-xs text-plaid-text-muted">12m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">Loan approved with sales data</div>
+            <div class="text-sm text-plaid-text-secondary">Loan approved with sales data</div>
           </div>
           
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
               <div class="w-8 h-8 bg-indigo-100 rounded-full flex items-center justify-center mr-3">
                 <svg class="w-4 h-4 text-indigo-600" fill="currentColor" viewBox="0 0 20 20">
@@ -114,14 +119,14 @@
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">FraudGuard</div>
-                <div class="text-xs text-gray-500">15m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">FraudGuard</div>
+                <div class="text-xs text-plaid-text-muted">15m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">Risk assessment completed</div>
+            <div class="text-sm text-plaid-text-secondary">Risk assessment completed</div>
           </div>
           
-          <div class="bg-white rounded-lg p-4 shadow-sm border border-gray-100">
+          <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
             <div class="flex items-center mb-2">
               <div class="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center mr-3">
                 <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
@@ -129,11 +134,11 @@
                 </svg>
               </div>
               <div>
-                <div class="font-semibold text-sm text-gray-900">TaxTech</div>
-                <div class="text-xs text-gray-500">18m ago</div>
+                <div class="font-semibold text-sm text-plaid-text-primary">TaxTech</div>
+                <div class="text-xs text-plaid-text-muted">18m ago</div>
               </div>
             </div>
-            <div class="text-sm text-gray-700">Tax calculation updated</div>
+            <div class="text-sm text-plaid-text-secondary">Tax calculation updated</div>
           </div>
         </div>
       </div>

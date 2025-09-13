@@ -1,4 +1,4 @@
-/* Global transition effects for enhanced UX */
+/* Global transition effects for enhanced UX - Plaid-inspired */
 
 /* Smooth transitions for all interactive elements */
 * {
@@ -130,7 +130,36 @@
 
 .hover-lift:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 25px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 25px -3px rgba(8, 145, 178, 0.1), 0 4px 6px -2px rgba(8, 145, 178, 0.05);
+}
+
+/* Plaid-inspired glow effect */
+.plaid-glow {
+  position: relative;
+}
+
+.plaid-glow::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  padding: 2px;
+  background: linear-gradient(45deg, #0891b2, #06b6d4, #3b82f6, #6366f1);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+}
+
+.plaid-glow:hover::before {
+  opacity: 0.6;
+}
+
+/* Plaid gradient text effect */
+.gradient-text {
+  background: linear-gradient(135deg, #0891b2 0%, #06b6d4 25%, #3b82f6 50%, #6366f1 75%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 /* Button hover effects */

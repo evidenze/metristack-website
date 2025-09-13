@@ -1,13 +1,14 @@
 <template>
   <section class="relative bg-white overflow-hidden">
-    <!-- Stripe-style gradient background -->
-    <div class="absolute inset-0 bg-gradient-to-br from-primary-50 via-gray-25 to-white transition-all duration-1000"></div>
+    <!-- Plaid-style gradient background -->
+    <div class="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-primary-100 transition-all duration-1000"></div>
+    <div class="absolute inset-0 bg-plaid-glow opacity-30"></div>
     
     <!-- Main content -->
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
       <div class="text-center">
         
-        <!-- Trust badge - Stripe style -->
+        <!-- Trust badge - Plaid style -->
         <div class="inline-flex items-center px-3 py-1 rounded-full bg-primary-100 text-primary-700 text-sm font-medium mb-8 transition-all duration-500 hover:bg-primary-200 hover:scale-105 stagger-item">
           <svg class="w-4 h-4 mr-2 transition-transform duration-300" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
@@ -28,15 +29,15 @@
 
         </p>
         
-        <!-- CTA buttons - B2B focused -->
+        <!-- CTA buttons - Plaid focused -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16 stagger-item">
-          <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-stripe hover:shadow-stripe-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">
+          <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-plaid hover:shadow-plaid-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">
             Get API Keys Free
             <svg class="inline-block ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
             </svg>
           </button>
-          <button class="group relative w-full sm:w-auto bg-white hover:bg-gray-50 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 border border-gray-200 shadow-stripe-sm hover:shadow-stripe focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 hover-lift">
+          <button class="group relative w-full sm:w-auto bg-white hover:bg-gray-50 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 border border-gray-200 shadow-plaid-sm hover:shadow-plaid focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 hover-lift">
             View Documentation
           </button>
         </div>
@@ -64,9 +65,9 @@
         </div>
       </div>
       
-      <!-- Code example - Stripe style with elegant card -->
+            <!-- Code example - Plaid style with elegant card -->
       <div class="max-w-4xl mx-auto stagger-item">
-        <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-lg overflow-hidden hover-lift transition-all duration-500">
+        <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-lg overflow-hidden hover-lift transition-all duration-500">
           <div class="bg-gray-50 px-6 py-4 border-b border-gray-200">
             <div class="flex items-center space-x-2">
               <div class="w-3 h-3 bg-red-400 rounded-full transition-all duration-300 hover:scale-125"></div>
@@ -98,5 +99,5 @@
 </template>
 
 <script setup>
-// Stripe-inspired hero section with conversion focus
+// Plaid-inspired hero section with conversion focus
 </script>

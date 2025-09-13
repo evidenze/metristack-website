@@ -1,11 +1,11 @@
 <template>
-  <header class="bg-white shadow-stripe sticky top-0 z-50 border-b border-gray-200 transition-all duration-300">
+  <header class="bg-white shadow-plaid sticky top-0 z-50 border-b border-gray-200 transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between items-center py-4">
         <!-- Logo -->
         <div class="flex items-center">
           <NuxtLink to="/" class="flex items-center space-x-3 hover-lift">
-            <div class="w-10 h-10 bg-primary-600 rounded-lg flex items-center justify-center shadow-stripe-sm transition-all duration-300 hover:bg-primary-700 hover:scale-110">
+            <div class="w-10 h-10 bg-primary-600 rounded-lg flex items-center justify-center shadow-plaid-sm transition-all duration-300 hover:bg-primary-700 hover:scale-110">
               <span class="text-white font-bold text-lg">M</span>
             </div>
             <span class="text-2xl font-bold text-gray-900 transition-colors duration-300 hover:text-primary-600">Metristack</span>
@@ -42,7 +42,7 @@
           <a href="#" class="text-gray-600 hover:text-primary-600 font-medium transition-all duration-300 hover:scale-105">
             Sign in
           </a>
-          <button class="bg-primary-600 hover:bg-primary-700 text-white px-6 py-2 rounded-lg font-semibold transition-all duration-300 shadow-stripe-sm hover:shadow-stripe btn-hover hover:scale-105 transform active:scale-95">
+          <button class="bg-primary-600 hover:bg-primary-700 text-white px-6 py-2 rounded-lg font-semibold transition-all duration-300 shadow-plaid-sm hover:shadow-plaid btn-hover hover:scale-105 transform active:scale-95">
             Start free trial
           </button>
         </nav>
@@ -83,7 +83,7 @@
             <a href="#" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
               Sign in
             </a>
-            <button class="w-full bg-primary-600 hover:bg-primary-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 shadow-stripe-sm hover:shadow-stripe btn-hover transform hover:scale-105 active:scale-95 stagger-item">
+            <button class="w-full bg-primary-600 hover:bg-primary-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 shadow-plaid-sm hover:shadow-plaid btn-hover transform hover:scale-105 active:scale-95 stagger-item">
               Start free trial
             </button>
           </div>

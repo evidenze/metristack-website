@@ -1,11 +1,11 @@
 <template>
-  <section id="social-proof" class="py-24 bg-gray-50">
+  <section id="social-proof" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-4xl font-bold text-gray-900 mb-6">
+        <h2 class="text-4xl font-bold text-plaid-text-primary mb-6">
           Built by developers, loved by businesses
         </h2>
-        <p class="max-w-3xl mx-auto text-xl text-gray-600 leading-relaxed">
+        <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary leading-relaxed">
           Companies across industries rely on Metristack to unlock retail data 
           and create products that merchants actually want to use.
         </p>
@@ -13,22 +13,22 @@
       
       <!-- Customer Success Stories - Plaid style -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-20">
-        <a href="#" class="group block bg-white rounded-xl p-6 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100 hover:border-primary-200">
+        <a href="#" class="group block bg-white rounded-xl p-6 shadow-plaid hover:shadow-plaid-lg transition-all duration-300 border border-plaid-border hover:border-plaid-accent">
           <div class="flex items-center justify-between mb-4">
-            <div class="font-semibold text-gray-900">LendingCorp</div>
-            <svg class="w-5 h-5 text-gray-400 group-hover:text-primary-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div class="font-semibold text-plaid-text-primary">LendingCorp</div>
+            <svg class="w-5 h-5 text-plaid-text-muted group-hover:text-plaid-accent transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
           </div>
-          <div class="text-2xl font-bold text-primary-600 mb-2">$10M</div>
-          <div class="text-sm text-gray-600 mb-4">in additional loans approved with real-time sales data</div>
-          <div class="text-sm text-gray-900 group-hover:text-primary-600 transition-colors">Read the story →</div>
+          <div class="text-2xl font-bold text-plaid-accent mb-2">$10M</div>
+          <div class="text-sm text-plaid-text-secondary mb-4">in additional loans approved with real-time sales data</div>
+          <div class="text-sm text-plaid-text-primary group-hover:text-plaid-accent transition-colors">Read the story →</div>
         </a>
         
-        <a href="#" class="group block bg-white rounded-xl p-6 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100 hover:border-primary-200">
+        <a href="#" class="group block bg-white rounded-xl p-6 shadow-plaid hover:shadow-plaid-lg transition-all duration-300 border border-plaid-border hover:border-plaid-accent">
           <div class="flex items-center justify-between mb-4">
-            <div class="font-semibold text-gray-900">AnalyticsPro</div>
-            <svg class="w-5 h-5 text-gray-400 group-hover:text-primary-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div class="font-semibold text-plaid-text-primary">AnalyticsPro</div>
+            <svg class="w-5 h-5 text-plaid-text-muted group-hover:text-plaid-accent transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
           </div>

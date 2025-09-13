@@ -6,7 +6,8 @@
       
       <!-- About Hero Section -->
       <section class="relative bg-white overflow-hidden">
-        <div class="absolute inset-0 bg-gradient-to-br from-primary-50 via-gray-25 to-white"></div>
+        <div class="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-primary-100"></div>
+        <div class="absolute inset-0 bg-plaid-glow opacity-20"></div>
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
           <div class="text-center">
             <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
@@ -47,7 +48,7 @@
               </div>
             </div>
             <div class="stagger-item">
-              <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-lg p-8">
+              <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-lg p-8">
                 <div class="mb-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-4">The old way was broken:</h3>
                   <div class="space-y-3">
@@ -153,7 +154,7 @@
           </div>
 
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
-            <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-sm p-8 text-center stagger-item hover-lift">
+            <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-sm p-8 text-center stagger-item hover-lift">
               <div class="w-24 h-24 bg-gradient-to-br from-primary-400 to-primary-600 rounded-full mx-auto mb-6 flex items-center justify-center">
                 <span class="text-2xl font-bold text-white">ES</span>
               </div>
@@ -164,7 +165,7 @@
               </p>
             </div>
 
-            <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-sm p-8 text-center stagger-item hover-lift">
+            <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-sm p-8 text-center stagger-item hover-lift">
               <div class="w-24 h-24 bg-gradient-to-br from-blue-400 to-blue-600 rounded-full mx-auto mb-6 flex items-center justify-center">
                 <span class="text-2xl font-bold text-white">JD</span>
               </div>
@@ -175,7 +176,7 @@
               </p>
             </div>
 
-            <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-sm p-8 text-center stagger-item hover-lift">
+            <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-sm p-8 text-center stagger-item hover-lift">
               <div class="w-24 h-24 bg-gradient-to-br from-green-400 to-green-600 rounded-full mx-auto mb-6 flex items-center justify-center">
                 <span class="text-2xl font-bold text-white">MK</span>
               </div>
@@ -269,13 +270,13 @@
               Join 500+ companies that chose to focus on their core product instead of API maintenance.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center stagger-item">
-              <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-stripe hover:shadow-stripe-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">
+              <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-plaid hover:shadow-plaid-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">
                 Start Building Today
                 <svg class="inline-block ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
                 </svg>
               </button>
-              <button class="group relative w-full sm:w-auto bg-white hover:bg-gray-50 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 border border-gray-200 shadow-stripe-sm hover:shadow-stripe focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 hover-lift">
+              <button class="group relative w-full sm:w-auto bg-white hover:bg-gray-50 text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 border border-gray-200 shadow-plaid-sm hover:shadow-plaid focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 hover-lift">
                 Schedule a Demo
               </button>
             </div>
