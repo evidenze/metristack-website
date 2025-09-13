@@ -1,6 +1,9 @@
 <template>
-  <footer class="bg-plaid-dark text-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+  <footer class="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white relative overflow-hidden">
+    <!-- Gradient overlay for extra depth -->
+    <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent pointer-events-none"></div>
+    
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 relative z-10">
       <!-- Main Footer Content -->
       <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 mb-12">
         <!-- Company Info -->
@@ -35,15 +38,15 @@
           </div>
         </div>
         
-        <!-- Product Links -->
+        <!-- Use Cases Links -->
         <div>
-          <h3 class="text-lg font-semibold mb-6">Product</h3>
+          <h3 class="text-lg font-semibold mb-6">Use Cases</h3>
           <ul class="space-y-4">
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">API Reference</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Integrations</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Webhooks</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">SDKs</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Sandbox</a></li>
+            <li><NuxtLink to="/use-cases/fintech-lending" class="text-gray-400 hover:text-white transition-colors duration-200">Fintech & Lending</NuxtLink></li>
+            <li><NuxtLink to="/use-cases/marketing-automation" class="text-gray-400 hover:text-white transition-colors duration-200">Marketing Automation</NuxtLink></li>
+            <li><NuxtLink to="/use-cases/inventory-management" class="text-gray-400 hover:text-white transition-colors duration-200">Smart Inventory</NuxtLink></li>
+            <li><NuxtLink to="/use-cases/retail-analytics" class="text-gray-400 hover:text-white transition-colors duration-200">Retail Analytics</NuxtLink></li>
+            <li><NuxtLink to="/use-cases/customer-experience" class="text-gray-400 hover:text-white transition-colors duration-200">Customer Experience</NuxtLink></li>
             <li><a href="#pricing" class="text-gray-400 hover:text-white transition-colors duration-200">Pricing</a></li>
           </ul>
         </div>
@@ -68,9 +71,9 @@
             <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">About</a></li>
             <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Blog</a></li>
             <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Careers</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Contact</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Press</a></li>
-            <li><a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Partners</a></li>
+            <li><NuxtLink to="/contact" class="text-gray-400 hover:text-white transition-colors duration-200">Contact</NuxtLink></li>
+            <li><NuxtLink to="/developer-policy" class="text-gray-400 hover:text-white transition-colors duration-200">Developer Policy</NuxtLink></li>
+            <li><NuxtLink to="/end-user-policy" class="text-gray-400 hover:text-white transition-colors duration-200">End-User Policy</NuxtLink></li>
           </ul>
         </div>
       </div>
@@ -104,9 +107,9 @@
               © 2025 Metristack. All rights reserved.
             </p>
             <div class="flex items-center space-x-6 text-sm">
-              <a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Privacy Policy</a>
-              <a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Terms of Service</a>
-              <a href="#" class="text-gray-400 hover:text-white transition-colors duration-200">Cookie Policy</a>
+              <NuxtLink to="/privacy-policy" class="text-gray-400 hover:text-white transition-colors duration-200">Privacy Policy</NuxtLink>
+              <NuxtLink to="/terms-of-use" class="text-gray-400 hover:text-white transition-colors duration-200">Terms of Use</NuxtLink>
+              <NuxtLink to="/security" class="text-gray-400 hover:text-white transition-colors duration-200">Security</NuxtLink>
             </div>
           </div>
           

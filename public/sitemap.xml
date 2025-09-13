@@ -30,4 +30,34 @@
     <priority>0.70</priority>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://metristack.com/use-cases/fintech-lending</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://metristack.com/use-cases/marketing-automation</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://metristack.com/use-cases/inventory-management</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://metristack.com/use-cases/retail-analytics</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://metristack.com/use-cases/customer-experience</loc>
+    <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>

@@ -1,7 +1,7 @@
 <template>
-  <section id="how-it-works" class="py-24 bg-gray-50">
+  <section id="how-it-works" class="py-16 bg-gray-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center mb-20">
+      <div class="text-center mb-16">
         <h2 class="text-4xl font-bold text-gray-900 mb-6">
           How Metristack Works
         </h2>
@@ -11,7 +11,7 @@
       </div>
       
       <!-- 3-Step Process -->
-      <div class="mb-20">
+      <div class="mb-16">
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <!-- Step 1 -->
           <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300">
@@ -24,25 +24,9 @@
                 Your merchant clicks "Connect Store" in your app. They authorize access through our 
                 secure OAuth flow in seconds.
               </p>
-              
-              <!-- Visual representation -->
-              <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
-                <div class="flex items-center justify-between mb-4">
-                  <div class="text-sm font-medium text-gray-900">Your App</div>
-                  <div class="w-8 h-px bg-gray-200"></div>
-                  <div class="text-sm font-medium text-primary-600">Metristack</div>
-                </div>
-                <button class="w-full bg-primary-600 text-white px-4 py-2 rounded-lg font-semibold text-sm hover:bg-primary-700 transition-colors">
-                  Connect My Store
-                </button>
-                <div class="mt-3 text-xs text-gray-500 font-medium">
-                  ✓ Shopify ✓ Square ✓ Clover ✓ 17 more...
-                </div>
-              </div>
             </div>
           </div>
           
-                    
           <!-- Step 2 -->
           <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300">
             <div class="text-center">
@@ -54,23 +38,6 @@
                 Our platform automatically syncs and transforms their data into a unified format. 
                 All platforms, one consistent API.
               </p>
-              
-              <!-- Visual representation -->
-              <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
-                <div class="space-y-3">
-                  <div class="grid grid-cols-3 gap-2 text-xs">
-                    <div class="bg-blue-50 text-blue-700 px-2 py-1 rounded border border-blue-100 font-medium text-center">Shopify</div>
-                    <div class="bg-orange-50 text-orange-700 px-2 py-1 rounded border border-orange-100 font-medium text-center">Square</div>
-                    <div class="bg-purple-50 text-purple-700 px-2 py-1 rounded border border-purple-100 font-medium text-center">Clover</div>
-                  </div>
-                  <div class="flex items-center justify-center py-2">
-                    <div class="text-sm text-gray-500 font-medium">↓ Transform ↓</div>
-                  </div>
-                  <div class="bg-green-50 text-green-700 px-3 py-2 rounded border border-green-100 text-sm font-medium text-center">
-                    Unified Metristack API
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           
@@ -84,16 +51,6 @@
               <p class="text-gray-600 mb-6 leading-relaxed">
                 Make a single API call to get sales, customers, products, and more. Same format for every merchant, regardless of their platform.
               </p>
-              
-              <!-- API code example -->
-              <div class="bg-gray-900 rounded-lg p-4 text-left overflow-x-auto border border-gray-800">
-                <pre class="text-green-400 text-xs font-mono"><code>// Get all merchant data
-const data = await metristack
-  .merchants.get('merchant_123')
-  .sales({ days: 30 });
-
-// ✨ Always the same format</code></pre>
-              </div>
             </div>
           </div>
         </div>

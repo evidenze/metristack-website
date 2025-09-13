@@ -11,12 +11,12 @@
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
           <div class="text-center">
             <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
-              Built by developers,
-              <span class="text-primary-500">for developers</span>
+              Enabling breakthrough retail solutions,
+              <span class="text-primary-500">one API at a time</span>
             </h1>
             <p class="max-w-3xl mx-auto text-xl text-gray-600 mb-16 leading-relaxed stagger-item">
-              We experienced the pain of retail integrations firsthand. After months building custom connectors 
-              for each platform, we knew there had to be a better way. Metristack is that better way.
+              We experienced the integration challenge firsthand. After months building custom connectors 
+              for each platform, we built the infrastructure that powers breakthrough retail solutions. Metristack is that infrastructure.
             </p>
           </div>
         </div>
@@ -28,53 +28,53 @@
           <div class="grid lg:grid-cols-2 gap-16 items-center">
             <div class="stagger-item">
               <h2 class="text-3xl font-semibold text-gray-900 mb-6">
-                The integration nightmare that sparked a solution
+                From integration challenges to infrastructure solutions
               </h2>
               <div class="space-y-6 text-gray-600">
                 <p>
-                  In 2023, our team was building lending products for retail merchants. We quickly discovered 
+                  In 2023, our team was building breakthrough lending products for retail merchants. We quickly discovered 
                   that every commerce platform—Shopify, Square, Clover, WooCommerce—had different APIs, 
                   different data formats, and different authentication methods.
                 </p>
                 <p>
                   What should have taken weeks stretched into months. Our engineering team spent more time 
-                  wrestling with API inconsistencies than building the lending features our customers needed.
+                  building integrations than creating the innovative lending features that would transform merchants' businesses.
                 </p>
                 <p>
-                  We realized we weren't alone. Every fintech, analytics, and business tools company was 
-                  fighting the same battle—building and maintaining dozens of platform-specific integrations 
-                  just to access basic retail data.
+                  We realized every fintech, analytics, and business tools company was building the same 
+                  foundation—dozens of platform-specific integrations just to access the data that powers 
+                  breakthrough retail solutions.
                 </p>
               </div>
             </div>
             <div class="stagger-item">
               <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-lg p-8">
                 <div class="mb-6">
-                  <h3 class="text-xl font-semibold text-gray-900 mb-4">The old way was broken:</h3>
+                  <h3 class="text-xl font-semibold text-gray-900 mb-4">The opportunity we saw:</h3>
                   <div class="space-y-3">
-                    <div class="flex items-center text-red-600">
+                    <div class="flex items-center text-green-600">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path>
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
-                      6+ months to integrate major platforms
+                      Build once, connect to all platforms
                     </div>
-                    <div class="flex items-center text-red-600">
+                    <div class="flex items-center text-green-600">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path>
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
-                      Dedicated engineers for each platform
+                      Engineers focus on breakthrough features
                     </div>
-                    <div class="flex items-center text-red-600">
+                    <div class="flex items-center text-green-600">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path>
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
-                      Constant maintenance as APIs change
+                      Launch products in days, not months
                     </div>
-                    <div class="flex items-center text-red-600">
+                    <div class="flex items-center text-green-600">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path>
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
-                      Features delayed by integration work
+                      Enable innovation across Africa
                     </div>
                   </div>
                 </div>
@@ -89,11 +89,11 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="text-center mb-16">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
-              Our mission: Let developers build, not integrate
+              Our mission: Enable breakthrough retail innovation
             </h2>
             <p class="max-w-3xl mx-auto text-xl text-gray-600 stagger-item">
-              Every minute spent on API integrations is a minute not spent building the features that 
-              drive business value. We're changing that.
+              Every minute spent on integrations is a minute not spent building transformative products. 
+              We provide the infrastructure so you can focus on solutions that matter.
             </p>
           </div>
 
@@ -104,10 +104,10 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                 </svg>
               </div>
-              <h3 class="text-xl font-semibold text-gray-900 mb-4">Speed to market</h3>
+              <h3 class="text-xl font-semibold text-gray-900 mb-4">Launch faster</h3>
               <p class="text-gray-600">
-                Launch retail integrations in days, not months. Focus your engineering resources on 
-                building differentiated features.
+                Build breakthrough retail solutions in days, not months. Focus your engineering resources on 
+                creating products that transform merchant success.
               </p>
             </div>
 
@@ -264,10 +264,10 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div class="max-w-3xl mx-auto">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
-              Ready to stop building integrations?
+              Ready to launch your breakthrough retail solution?
             </h2>
             <p class="text-xl text-gray-600 mb-10 stagger-item">
-              Join 500+ companies that chose to focus on their core product instead of API maintenance.
+              Join 500+ companies building transformative products on Metristack's infrastructure.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center stagger-item">
               <button class="group relative w-full sm:w-auto bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 shadow-plaid hover:shadow-plaid-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 btn-hover transform hover:scale-105 active:scale-95">

@@ -7,16 +7,7 @@
         <HeroSection />
       </Transition>
       <Transition name="slide-up" appear>
-        <ProblemSection />
-      </Transition>
-      <Transition name="slide-up" appear>
-        <SolutionSection />
-      </Transition>
-      <Transition name="slide-up" appear>
-        <NetworkSection />
-      </Transition>
-      <Transition name="slide-up" appear>
-        <BenefitsSection />
+        <DataTypesSection />
       </Transition>
       <Transition name="slide-up" appear>
         <HowItWorksSection />
@@ -25,10 +16,10 @@
         <UseCasesSection />
       </Transition>
       <Transition name="slide-up" appear>
-        <SocialProofSection />
+        <SupportedPlatformsSection />
       </Transition>
       <Transition name="slide-up" appear>
-        <PricingSection />
+        <BenefitsSection />
       </Transition>
       <Transition name="slide-up" appear>
         <FinalCtaSection />
@@ -42,14 +33,11 @@
 import StructuredData from '~/components/StructuredData.vue'
 import HeaderSection from '~/components/HeaderSection.vue'
 import HeroSection from '~/components/HeroSection.vue'
-import ProblemSection from '~/components/ProblemSection.vue'
-import SolutionSection from '~/components/SolutionSection.vue'
-import NetworkSection from '~/components/NetworkSection.vue'
+import DataTypesSection from '~/components/DataTypesSection.vue'
+import SupportedPlatformsSection from '~/components/SupportedPlatformsSection.vue'
 import BenefitsSection from '~/components/BenefitsSection.vue'
 import HowItWorksSection from '~/components/HowItWorksSection.vue'
 import UseCasesSection from '~/components/UseCasesSection.vue'
-import SocialProofSection from '~/components/SocialProofSection.vue'
-import PricingSection from '~/components/PricingSection.vue'
 import FinalCtaSection from '~/components/FinalCtaSection.vue'
 import FooterSection from '~/components/FooterSection.vue'
 

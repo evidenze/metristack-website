@@ -1,6 +1,10 @@
 <template>
-  <header class="bg-white shadow-plaid sticky top-0 z-50 border-b border-gray-200 transition-all duration-300">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <header class="bg-white sticky top-0 z-50 border-b border-gray-100 transition-all duration-300 overflow-hidden">
+    <!-- Matching hero section background -->
+    <div class="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-primary-100 transition-all duration-1000"></div>
+    <div class="absolute inset-0 bg-plaid-glow opacity-20"></div>
+    
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
       <div class="flex justify-between items-center py-4">
         <!-- Logo -->
         <div class="flex items-center">
@@ -34,6 +38,10 @@
             Support
             <span class="absolute inset-x-0 bottom-0 h-0.5 bg-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
           </a>
+          <NuxtLink to="/contact" class="text-gray-600 hover:text-primary-600 font-medium transition-all duration-300 hover:scale-105 relative group">
+            Contact
+            <span class="absolute inset-x-0 bottom-0 h-0.5 bg-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
+          </NuxtLink>
           
           <!-- Divider -->
           <div class="w-px h-6 bg-gray-300 transition-all duration-300"></div>
@@ -77,6 +85,9 @@
             <a href="#" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
               Support
             </a>
+            <NuxtLink to="/contact" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
+              Contact
+            </NuxtLink>
           
           <!-- Mobile Auth -->
           <div class="pt-4 border-t border-gray-200 space-y-3">

@@ -16,16 +16,16 @@
           Trusted by 500+ fintech & B2B companies
         </div>
         
-        <!-- Main headline - More impactful -->
+        <!-- Main headline - Solution focused -->
         <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
-          Stop building integrations.
-          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">Start building products.</span>
+          Build breakthrough products.
+          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">Powered by African retail data.</span>
         </h1>
         
-        <!-- Subheadline - Emphasizes enabling new connections -->
-                <p class="text-lg text-plaid-text-muted leading-relaxed max-w-2xl mx-auto">
-          Metristack changes that. One integration connects you to sales, inventory, and customer data 
-          from 20+ African retail platforms. Real-time insights that drive growth.
+        <!-- Subheadline - Solution outcomes -->
+        <p class="text-lg text-plaid-text-muted leading-relaxed max-w-2xl mx-auto mb-8">
+          Metristack connects you to sales, inventory, and customer data 
+          from 20+ African retail platforms. One integration unlocks unlimited possibilities.
         </p>
         
         <!-- CTA buttons - Plaid focused -->

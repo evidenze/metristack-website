@@ -1,0 +1,189 @@
+<template>
+  <section id="data-types" class="pt-16 pb-0 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-20">
+        <h2 class="text-3xl md:text-4xl font-bold text-center text-plaid-text-primary mb-4">
+          Access any retail data. <span class="text-plaid-accent">From any platform.</span>
+        </h2>
+        <p class="text-lg text-plaid-text-muted leading-relaxed max-w-3xl mx-auto mb-12">
+          Metristack provides unified access to all the data you need to build breakthrough retail solutions. 
+          One API, standardized formats, real-time updates across 20+ platforms.
+        </p>
+      </div>
+      
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-20">
+        <!-- Data Type 1: Sales Data -->
+        <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100">
+          <div class="flex items-center mb-6">
+            <div class="w-12 h-12 bg-green-600 rounded-lg flex items-center justify-center mr-4 shadow-stripe-sm">
+              <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-900">Unified Sales Data</h3>
+              <p class="text-green-600 text-sm font-medium">Complete transaction insights</p>
+            </div>
+          </div>
+          <p class="text-gray-600 mb-6 leading-relaxed">
+            Transactions, orders, refunds, and payments from all platforms in one format.
+            Build comprehensive financial analytics and reporting with standardized data.
+          </p>
+          <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
+            <h4 class="font-semibold text-gray-900 mb-3">Available Data:</h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Transaction amounts and timestamps
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Order details and line items
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Refunds and payment methods
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+        <!-- Data Type 2: Inventory Data -->
+        <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100">
+          <div class="flex items-center mb-6">
+            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mr-4 shadow-stripe-sm">
+              <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M9 21V9l-1-1v10l-1-1"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-900">Real-time Inventory</h3>
+              <p class="text-blue-600 text-sm font-medium">Live stock management</p>
+            </div>
+          </div>
+          <p class="text-gray-600 mb-6 leading-relaxed">
+            Stock levels, product catalogs, and inventory movements as they happen.
+            Enable smart inventory optimization and automated reordering systems.
+          </p>
+          <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
+            <h4 class="font-semibold text-gray-900 mb-3">Real-time Updates:</h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Current stock levels by location
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Product catalogs and variants
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Inventory movements and history
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+        <!-- Data Type 3: Customer Data -->
+        <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100">
+          <div class="flex items-center mb-6">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mr-4 shadow-stripe-sm">
+              <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197m13.5-9a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-900">Customer Profiles</h3>
+              <p class="text-purple-600 text-sm font-medium">360-degree customer view</p>
+            </div>
+          </div>
+          <p class="text-gray-600 mb-6 leading-relaxed">
+            Purchase history, preferences, and contact info across all touchpoints.
+            Build personalized experiences and targeted marketing campaigns.
+          </p>
+          <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
+            <h4 class="font-semibold text-gray-900 mb-3">Customer Insights:</h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Complete purchase history
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Shopping preferences and behavior
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Contact information and demographics
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+        <!-- Data Type 4: Order Management -->
+        <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300 border border-gray-100">
+          <div class="flex items-center mb-6">
+            <div class="w-12 h-12 bg-orange-600 rounded-lg flex items-center justify-center mr-4 shadow-stripe-sm">
+              <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-semibold text-gray-900">Order Management</h3>
+              <p class="text-orange-600 text-sm font-medium">Complete lifecycle tracking</p>
+            </div>
+          </div>
+          <p class="text-gray-600 mb-6 leading-relaxed">
+            Fulfillment status, shipping details, and order lifecycle tracking.
+            Build comprehensive order management and customer communication systems.
+          </p>
+          <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
+            <h4 class="font-semibold text-gray-900 mb-3">Order Lifecycle:</h4>
+            <ul class="text-sm text-gray-600 space-y-2">
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-orange-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Order status and fulfillment updates
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-orange-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Shipping and tracking information
+              </li>
+              <li class="flex items-center">
+                <svg class="w-4 h-4 text-orange-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                </svg>
+                Returns and exchange processing
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script setup>
+// Data types section for retail data access
+</script>
