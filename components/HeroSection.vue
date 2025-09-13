@@ -18,15 +18,15 @@
         
         <!-- Main headline - More impactful -->
         <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
-          One API for all
-          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">retail data</span>
+          Stop building integrations.
+          <span class="text-primary-500 transition-colors duration-500 hover:text-primary-600">Start building products.</span>
         </h1>
         
-        <!-- Subheadline - Unique retail focus -->
+        <!-- Subheadline - Emphasizes enabling new connections -->
         <p class="max-w-3xl mx-auto text-xl text-gray-600 mb-10 leading-relaxed stagger-item">
-        Metristack connects you to sales, inventory, orders, and customers across POS, e-commerce, and marketplaces with one API. Build lending, analytics, 
-          and business tools that merchants actually want to use.
-
+          Rich transaction data sits in African retail platforms with no way to access it. 
+          Metristack changes that. One integration gives you sales, inventory, and customer data 
+          from POS systems, e-commerce platforms, and marketplaces across Africa.
         </p>
         
         <!-- CTA buttons - Plaid focused -->
@@ -54,13 +54,13 @@
             <svg class="w-4 h-4 mr-2 text-success-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
             </svg>
-            <span>5-minute integration</span>
+            <span>Connect previously disconnected platforms</span>
           </div>
           <div class="flex items-center">
             <svg class="w-4 h-4 mr-2 text-success-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
             </svg>
-            <span>Launch in weeks, not months</span>
+            <span>Access new data sources</span>
           </div>
         </div>
       </div>

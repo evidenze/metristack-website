@@ -3,11 +3,11 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold text-plaid-text-primary mb-6">
-          Build Commerce Integrations <span class="text-plaid-accent">10x Faster</span>
+          Access African Retail Data <span class="text-plaid-accent">10x Faster</span>
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary">
-          Reduce retail API development time from months to days with our unified commerce data platform. 
-          Accelerate time-to-market while your engineering team focuses on core product features, not integration complexity.
+          Transform inaccessible African retail data into valuable business insights. What was previously locked away 
+          becomes accessible through our unified API, accelerating innovation across the retail ecosystem.
         </p>
       </div>
       
@@ -19,12 +19,12 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
             </svg>
           </div>
-          <h3 class="text-lg font-semibold text-plaid-text-primary mb-3 transition-colors duration-300 hover:text-plaid-accent">Ship features faster</h3>
+          <h3 class="text-lg font-semibold text-plaid-text-primary mb-3 transition-colors duration-300 hover:text-plaid-accent">Access data instantly</h3>
           <p class="text-plaid-text-secondary text-sm leading-relaxed mb-4 transition-colors duration-300">
-            5-minute setup vs 6-month integrations. Get to market while competitors are still building.
+            5-minute access to data vs months of custom integrations. Get insights while competitors struggle with closed systems.
           </p>
           <div class="text-2xl font-bold text-plaid-accent">10x</div>
-          <div class="text-xs text-plaid-text-muted">Faster development</div>
+          <div class="text-xs text-plaid-text-muted">Faster data access</div>
         </div>
         
         <div class="bg-white rounded-xl border border-plaid-border p-6 shadow-plaid hover:shadow-plaid-lg transition-shadow duration-200">
@@ -35,7 +35,7 @@
           </div>
           <h3 class="text-lg font-semibold text-plaid-text-primary mb-3">Reduce costs</h3>
           <p class="text-plaid-text-secondary text-sm leading-relaxed mb-4">
-            Skip hiring integration specialists. One developer can handle all retail data needs.
+            Skip hiring data extraction specialists. One API connects to all retail platforms with no custom work.
           </p>
           <div class="text-2xl font-bold text-plaid-success">$250K+</div>
           <div class="text-xs text-plaid-text-muted">Engineering savings/year</div>
@@ -47,12 +47,12 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
             </svg>
           </div>
-          <h3 class="text-lg font-semibold text-gray-900 mb-3">Scale instantly</h3>
+          <h3 class="text-lg font-semibold text-gray-900 mb-3">Connect new opportunities</h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Add new retail platforms without custom dev work. Scale from 1 to 1000+ merchants seamlessly.
+            Access previously inaccessible data from 20+ platforms. Scale insights from 1 to 1000+ merchants seamlessly.
           </p>
           <div class="text-2xl font-bold text-purple-600">20+</div>
-          <div class="text-xs text-gray-500">Platforms ready</div>
+          <div class="text-xs text-gray-500">Data sources connected</div>
         </div>
         
         <div class="bg-white rounded-xl border border-gray-200 p-6 shadow-stripe hover:shadow-stripe-md transition-shadow duration-200">
@@ -61,9 +61,9 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
             </svg>
           </div>
-          <h3 class="text-lg font-semibold text-gray-900 mb-3">Higher quality</h3>
+          <h3 class="text-lg font-semibold text-gray-900 mb-3">Rich, clean data</h3>
           <p class="text-gray-600 text-sm leading-relaxed mb-4">
-            Consistent, validated data. No more debugging inconsistent field formats or missing data.
+            Consistent, normalized data from closed systems. No more struggling with inaccessible or incomplete information.
           </p>
           <div class="text-2xl font-bold text-orange-600">99.9%</div>
           <div class="text-xs text-gray-500">Data accuracy</div>
@@ -73,7 +73,7 @@
       <!-- Detailed Features - Stripe style -->
       <div class="bg-white rounded-2xl border border-gray-200 shadow-stripe-lg p-8 lg:p-12">
         <h3 class="text-2xl font-semibold text-gray-900 text-center mb-12">
-          Everything you need for retail data
+          Everything you need to access retail data
         </h3>
         
         <div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-8">

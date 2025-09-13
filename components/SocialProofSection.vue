@@ -6,7 +6,7 @@
           Built by developers, loved by businesses
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary leading-relaxed">
-          Companies across industries rely on Metristack to unlock retail data 
+          Companies across industries rely on Metristack to access retail data 
           and create products that merchants actually want to use.
         </p>
       </div>
@@ -69,7 +69,7 @@
             </svg>
           </div>
           <div class="text-2xl font-bold text-primary-600 mb-2">$2.4M</div>
-          <div class="text-sm text-gray-600 mb-4">new revenue unlocked with unified inventory insights</div>
+          <div class="text-sm text-gray-600 mb-4">new revenue generated with unified inventory insights</div>
           <div class="text-sm text-gray-900 group-hover:text-primary-600 transition-colors">Read the story →</div>
         </a>
         

@@ -4,13 +4,13 @@
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold mb-6">
           <span class="bg-gradient-to-tr from-plaid-accent via-plaid-primary-400 to-plaid-accent bg-clip-text text-transparent">
-            The retail data ecosystem grows stronger daily
+            Connecting African retail data at scale
           </span>
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-plaid-text-secondary">
-          Built on the most comprehensive retail integration platform, every connection 
-          strengthens the entire ecosystem. New platforms, enhanced data quality, 
-          and smarter insights flow to every developer automatically.
+          Every new data source we connect strengthens the entire ecosystem. Rich transaction 
+          data that was previously inaccessible becomes available to developers, creating 
+          exponential value as the network grows.
         </p>
       </div>
       
@@ -18,20 +18,20 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-20">
         <div class="text-center">
           <div class="text-4xl font-bold text-plaid-primary mb-2">20+</div>
-          <div class="text-lg font-semibold text-plaid-text-primary mb-1">retail platforms</div>
-          <div class="text-sm text-plaid-text-muted">Connect to every major system</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">data sources connected</div>
+          <div class="text-sm text-plaid-text-muted">Previously inaccessible retail data</div>
         </div>
         
         <div class="text-center">
           <div class="text-4xl font-bold text-plaid-primary mb-2">10x</div>
-          <div class="text-lg font-semibold text-plaid-text-primary mb-1">faster integration</div>
-          <div class="text-sm text-plaid-text-muted">Ship features in days, not months</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">faster data access</div>
+          <div class="text-sm text-plaid-text-muted">Access insights in days, not months</div>
         </div>
         
         <div class="text-center">
           <div class="text-4xl font-bold text-plaid-primary mb-2">1000+</div>
-          <div class="text-lg font-semibold text-plaid-text-primary mb-1">daily API calls</div>
-          <div class="text-sm text-plaid-text-muted">Get data from growing connections</div>
+          <div class="text-lg font-semibold text-plaid-text-primary mb-1">data points accessible</div>
+          <div class="text-sm text-plaid-text-muted">From previously closed systems</div>
         </div>
         
         <div class="text-center">
@@ -47,7 +47,7 @@
         <div class="absolute inset-0 opacity-5 bg-plaid-network"></div>
         
         <h3 class="text-2xl font-semibold text-plaid-text-primary text-center mb-8 relative z-10">
-          Live integrations happening right now
+          Live data connections happening right now
         </h3>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto relative z-10">
@@ -63,7 +63,7 @@
                 <div class="text-xs text-plaid-text-muted">2m ago</div>
               </div>
             </div>
-            <div class="text-sm text-plaid-text-secondary">New Shopify integration connected</div>
+            <div class="text-sm text-plaid-text-secondary">Shopify sales data connected</div>
           </div>
           
           <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
@@ -78,7 +78,7 @@
                 <div class="text-xs text-plaid-text-muted">5m ago</div>
               </div>
             </div>
-            <div class="text-sm text-plaid-text-secondary">Transaction sync completed ✅</div>
+            <div class="text-sm text-plaid-text-secondary">Transaction data accessed ✅</div>
           </div>
           
           <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
@@ -93,7 +93,7 @@
                 <div class="text-xs text-plaid-text-muted">8m ago</div>
               </div>
             </div>
-            <div class="text-sm text-plaid-text-secondary">Inventory data synced from Square</div>
+            <div class="text-sm text-plaid-text-secondary">Inventory data accessed from Square</div>
           </div>
           
           <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">
@@ -108,7 +108,7 @@
                 <div class="text-xs text-plaid-text-muted">12m ago</div>
               </div>
             </div>
-            <div class="text-sm text-plaid-text-secondary">Loan approved with sales data</div>
+            <div class="text-sm text-plaid-text-secondary">Loan approved with accessible data</div>
           </div>
           
           <div class="bg-white rounded-xl p-4 shadow-plaid border border-plaid-primary-100">

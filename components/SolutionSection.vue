@@ -3,17 +3,17 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
-          One Unified API. <span class="text-primary-500">All Retail Platform Data.</span>
+          Access the data. <span class="text-primary-500">Connect to everything.</span>
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-gray-600">
-          Metristack's unified retail API normalizes data from 20+ commerce platforms including Shopify, Square, and Clover 
-          into a single, consistent interface. Build your integration once, connect to every major retail platform instantly.
+          Metristack transforms inaccessible retail data into accessible APIs. Our unified interface provides instant access to valuable transaction data 
+          from closed systems across African retail platforms, giving you previously unreachable insights.
         </p>
       </div>
       
       <!-- Before vs After - Stripe card style -->
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-20">
-        <!-- Before: Multiple APIs -->
+        <!-- Before: Data Inaccessible -->
         <div class="bg-white rounded-xl border border-gray-200 p-8 shadow-stripe">
           <div class="flex items-center mb-6">
             <div class="w-8 h-8 bg-red-100 rounded-lg flex items-center justify-center mr-3">
@@ -30,7 +30,7 @@
                   <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Build 20+ separate integrations</span>
+              <span class="text-gray-700">Data locked in closed systems</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center mr-3">
@@ -38,7 +38,7 @@
                   <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Learn different API patterns</span>
+              <span class="text-gray-700">No way to access valuable insights</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center mr-3">
@@ -46,7 +46,7 @@
                   <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Handle inconsistent data formats</span>
+              <span class="text-gray-700">Rich data sitting unused</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center mr-3">
@@ -54,12 +54,12 @@
                   <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">6+ months of development</span>
+              <span class="text-gray-700">Massive untapped opportunity</span>
             </div>
           </div>
         </div>
         
-        <!-- After: One API -->
+        <!-- After: Data Accessible -->
         <div class="bg-white rounded-xl border-2 border-primary-200 p-8 shadow-stripe-md">
           <div class="flex items-center mb-6">
             <div class="w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-3">
@@ -76,7 +76,7 @@
                   <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Single API for all platforms</span>
+              <span class="text-gray-700">Instant access to all platform data</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-success-100 flex items-center justify-center mr-3">
@@ -84,7 +84,7 @@
                   <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Consistent RESTful endpoints</span>
+              <span class="text-gray-700">Unified API connects everything</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-success-100 flex items-center justify-center mr-3">
@@ -92,7 +92,7 @@
                   <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                 </svg>
               </div>
-              <span class="text-gray-700">Normalized data schema</span>
+              <span class="text-gray-700">Rich insights now accessible</span>
             </div>
             <div class="flex items-center">
               <div class="w-5 h-5 rounded-full bg-success-100 flex items-center justify-center mr-3">
@@ -109,7 +109,7 @@
       <!-- Supported Platforms - Stripe style -->
       <div class="bg-gray-50 rounded-2xl p-8 lg:p-12 mb-20">
         <h3 class="text-2xl font-semibold text-gray-900 text-center mb-8">
-          Connect to every major platform
+          Transform closed systems into accessible APIs
         </h3>
         <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
           <div class="bg-white rounded-lg p-4 shadow-stripe-sm text-center hover:shadow-stripe transition-shadow duration-200">

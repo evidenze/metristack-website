@@ -3,11 +3,11 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
         <h2 class="text-4xl font-bold text-gray-900 mb-6">
-          Instant insights. Smarter decisions. Happier merchants.
+          Transform inaccessible data into business value. Instantly.
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-gray-600 leading-relaxed">
-          From fintech to analytics, Metristack gives you the commerce data foundation 
-          to build products that solve real problems for retail businesses.
+          From fintech to analytics, Metristack connects to previously inaccessible retail data 
+          to power innovative products that solve real problems for African businesses.
         </p>
       </div>
       
@@ -22,12 +22,12 @@
             </div>
             <div>
               <h3 class="text-xl font-semibold text-gray-900">Fintech & Lending</h3>
-              <p class="text-blue-600 text-sm font-medium">Real-time revenue analysis</p>
+              <p class="text-blue-600 text-sm font-medium">Access hidden sales data</p>
             </div>
           </div>
           <p class="text-gray-600 mb-6 leading-relaxed">
-            Provide instant loans and credit lines based on real-time sales data. 
-            Access cash flow patterns across all merchant platforms for better underwriting.
+            Provide instant loans and credit lines using previously inaccessible sales data. 
+            Access cash flow patterns from merchant platforms for better underwriting.
           </p>
           <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
             <h4 class="font-semibold text-gray-900 mb-3">Key Data Points:</h4>
@@ -70,12 +70,12 @@
             </div>
             <div>
               <h3 class="text-xl font-semibold text-gray-900">Marketing Automation</h3>
-              <p class="text-green-600 text-sm font-medium">Personalized campaigns</p>
+              <p class="text-green-600 text-sm font-medium">Access hidden customer data</p>
             </div>
           </div>
           <p class="text-gray-600 mb-6 leading-relaxed">
-            Create targeted marketing campaigns based on purchase behavior. 
-            Segment customers and automate follow-ups across email, SMS, and social.
+            Create targeted campaigns using purchase behavior from closed systems. 
+            Access customer data that was previously locked away to enable powerful segmentation and automation.
           </p>
           <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
             <h4 class="font-semibold text-gray-900 mb-3">Automation Triggers:</h4>
@@ -118,12 +118,12 @@
             </div>
             <div>
               <h3 class="text-xl font-semibold text-gray-900">Smart Inventory</h3>
-              <p class="text-purple-600 text-sm font-medium">AI-powered optimization</p>
+              <p class="text-purple-600 text-sm font-medium">Access inventory insights</p>
             </div>
           </div>
           <p class="text-gray-600 mb-6 leading-relaxed">
-            Optimize stock levels with demand forecasting. Prevent stockouts and 
-            reduce overstock across multiple locations and sales channels.
+            Optimize stock levels using data from merchant systems. Access previously inaccessible 
+            inventory data to prevent stockouts and reduce overstock across multiple locations.
           </p>
           <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
             <h4 class="font-semibold text-gray-900 mb-3">Smart Features:</h4>
@@ -166,12 +166,12 @@
             </div>
             <div>
               <h3 class="text-xl font-semibold text-gray-900">Retail Analytics</h3>
-              <p class="text-orange-600 text-sm font-medium">Business intelligence</p>
+              <p class="text-orange-600 text-sm font-medium">Access business insights</p>
             </div>
           </div>
           <p class="text-gray-600 mb-6 leading-relaxed">
-            Build comprehensive dashboards and reports. Help merchants understand their business 
-            with unified data from all their sales channels.
+            Build comprehensive dashboards using data from merchant platforms. Help businesses understand 
+            their performance with unified access to previously inaccessible sales channel data.
           </p>
           <div class="bg-gray-50 rounded-lg p-6 border border-gray-100">
             <h4 class="font-semibold text-gray-900 mb-3">Analytics Views:</h4>
@@ -208,7 +208,7 @@
       <!-- Success Stories Preview -->
       <div class="bg-white rounded-xl p-8 lg:p-12 shadow-stripe border border-gray-100">
         <h3 class="text-3xl font-semibold text-gray-900 text-center mb-12">
-          Join the Developers Building the Future of Retail
+          Join the Developers Accessing African Retail Data
         </h3>
         
         <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
