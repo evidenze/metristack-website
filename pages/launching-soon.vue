@@ -37,11 +37,7 @@
         <!-- Main Heading -->
         <h2 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span class="text-white">
-            Seamless access to 
-          </span>
-          <br>
-          <span class="text-gray-300">
-            African retail data
+            Seamless access to African retail data
           </span>
         </h2>
         
