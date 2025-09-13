@@ -37,18 +37,17 @@
         <!-- Main Heading -->
         <h2 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span class="text-white">
-            The infrastructure layer
+            Seamless access to 
           </span>
           <br>
           <span class="text-gray-300">
-            for African retail data
+            African retail data
           </span>
         </h2>
         
         <!-- Subtitle -->
         <p class="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-        Seamless access to Africa’s fragmented retail data through a single, unified API.
-          <br class="hidden md:block">
+        Metristack connects POS, e-commerce, and marketplaces into one API, giving developers and businesses instant, reliable access to retail data across Africa.
         </p>
         
         <!-- Key Features -->
