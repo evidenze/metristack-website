@@ -37,18 +37,18 @@
         <!-- Main Heading -->
         <h2 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span class="text-white">
-            The Future of
+            The infrastructure layer
           </span>
           <br>
           <span class="text-gray-300">
-            Retail Data
+            for African retail data
           </span>
         </h2>
         
         <!-- Subtitle -->
         <p class="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-          A unified API that connects to any commerce platform. 
-          Build powerful applications with real-time retail data from across Africa.
+        Seamless access to Africa’s fragmented retail data through a single, unified API.
+          <br class="hidden md:block">
         </p>
         
         <!-- Key Features -->
@@ -59,8 +59,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">Lightning Fast</h3>
-            <p class="text-gray-400 text-sm">Real-time data streaming with sub-second latency</p>
+            <h3 class="text-lg font-semibold mb-2 text-white">5 Minutes Setup</h3>
+            <p class="text-gray-400 text-sm">From signup to first API call in under 5 minutes</p>
           </div>
           
           <div class="bg-white/5 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/10 transition-all duration-300">
@@ -69,8 +69,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">Enterprise Ready</h3>
-            <p class="text-gray-400 text-sm">Bank-grade security with 99.99% uptime SLA</p>
+            <h3 class="text-lg font-semibold mb-2 text-white">20+ Platforms</h3>
+            <p class="text-gray-400 text-sm">Shopify, Square, WooCommerce, and every major platform</p>
           </div>
           
           <div class="bg-white/5 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/10 transition-all duration-300">
@@ -79,8 +79,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">Unified Access</h3>
-            <p class="text-gray-400 text-sm">One API for all major commerce platforms</p>
+            <h3 class="text-lg font-semibold mb-2 text-white">Real-Time Data</h3>
+            <p class="text-gray-400 text-sm">Sales, inventory, customers - all synced instantly</p>
           </div>
         </div>
     
