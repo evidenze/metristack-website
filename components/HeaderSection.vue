@@ -4,12 +4,12 @@
       <div class="flex justify-between items-center py-4">
         <!-- Logo -->
         <div class="flex items-center">
-          <a href="#" class="flex items-center space-x-3 hover-lift">
+          <NuxtLink to="/" class="flex items-center space-x-3 hover-lift">
             <div class="w-10 h-10 bg-primary-600 rounded-lg flex items-center justify-center shadow-stripe-sm transition-all duration-300 hover:bg-primary-700 hover:scale-110">
               <span class="text-white font-bold text-lg">M</span>
             </div>
             <span class="text-2xl font-bold text-gray-900 transition-colors duration-300 hover:text-primary-600">Metristack</span>
-          </a>
+          </NuxtLink>
         </div>
         
         <!-- Desktop Navigation -->
@@ -22,6 +22,10 @@
             Pricing
             <span class="absolute inset-x-0 bottom-0 h-0.5 bg-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
           </a>
+          <NuxtLink to="/about" class="text-gray-600 hover:text-primary-600 font-medium transition-all duration-300 hover:scale-105 relative group">
+            About
+            <span class="absolute inset-x-0 bottom-0 h-0.5 bg-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
+          </NuxtLink>
           <a href="#" class="text-gray-600 hover:text-primary-600 font-medium transition-all duration-300 hover:scale-105 relative group">
             Documentation
             <span class="absolute inset-x-0 bottom-0 h-0.5 bg-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
@@ -64,6 +68,9 @@
             <a href="#pricing" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
               Pricing
             </a>
+            <NuxtLink to="/about" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
+              About
+            </NuxtLink>
             <a href="#" class="block text-gray-600 hover:text-primary-600 font-medium py-2 transition-all duration-300 hover:pl-2 stagger-item">
               Documentation
             </a>
