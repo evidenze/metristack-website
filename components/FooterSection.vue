@@ -9,8 +9,12 @@
         <!-- Company Info -->
         <div class="lg:col-span-1">
           <div class="flex items-center space-x-3 mb-6">
-            <div class="w-10 h-10 bg-plaid-primary rounded-lg flex items-center justify-center shadow-plaid-sm">
-              <span class="text-white font-bold text-lg">M</span>
+            <div class="w-12 h-12 flex items-center justify-center">
+              <img 
+                src="~/assets/images/logo.png" 
+                alt="Metristack Logo" 
+                class="w-full h-full object-contain"
+              />
             </div>
             <span class="text-2xl font-bold">Metristack</span>
           </div>

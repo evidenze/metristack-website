@@ -63,7 +63,7 @@ export default defineNuxtConfig({
   
   googleFonts: {
     families: {
-      'Rethink Sans': [300, 400, 500, 600, 700, 800]
+      'Instrument Sans': [300, 400, 500, 600, 700, 800]
     },
     display: 'swap',
     prefetch: false,

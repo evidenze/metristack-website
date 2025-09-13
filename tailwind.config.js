@@ -81,8 +81,8 @@ export default {
         }
       },
       fontFamily: {
-        // Rethink Sans from Google Fonts with fallbacks
-        sans: ['"Rethink Sans"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
+        // Instrument Sans from Google Fonts with fallbacks
+        sans: ['"Instrument Sans"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
       },
       fontSize: {
         'xs': ['0.75rem', { lineHeight: '1.5' }],
