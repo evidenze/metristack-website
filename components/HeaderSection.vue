@@ -5,14 +5,13 @@
         <!-- Logo -->
         <div class="flex items-center">
           <NuxtLink to="/" class="flex items-center space-x-3 hover-lift">
-            <div class="w-12 h-12 flex items-center justify-center">
+            <div class="w-32 h-12 flex items-center justify-center">
               <img 
                 src="~/assets/images/logo.png" 
                 alt="Metristack Logo" 
                 class="w-full h-full object-contain"
               />
             </div>
-            <span class="text-2xl font-bold text-gray-900 transition-colors duration-300 hover:text-blue-600">Metristack</span>
           </NuxtLink>
         </div>
         
