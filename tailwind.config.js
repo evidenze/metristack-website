@@ -11,6 +11,13 @@ export default {
   theme: {
     extend: {
       colors: {
+        // SIMPLIFIED PALETTE (PREFERRED):
+        // - text-gray-900: Primary text
+        // - text-gray-600: Secondary text
+        // - bg-blue-600: Strategic blue accents and CTAs
+        // - bg-white: Primary background
+        // - bg-gray-50: Subtle background variation
+        
         // Plaid-inspired color palette
         primary: {
           50: '#f0f9ff', // Light cyan background

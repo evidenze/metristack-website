@@ -14,9 +14,9 @@
       <div class="mb-16">
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <!-- Step 1 -->
-          <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300">
+          <div class="bg-white rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300">
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-stripe-sm">
+              <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">1</span>
               </div>
               <h3 class="text-2xl font-semibold text-gray-900 mb-4">Merchant Connects</h3>
@@ -28,9 +28,9 @@
           </div>
           
           <!-- Step 2 -->
-          <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300">
+          <div class="bg-white rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300">
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-stripe-sm">
+              <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">2</span>
               </div>
               <h3 class="text-2xl font-semibold text-gray-900 mb-4">We Normalize</h3>
@@ -42,9 +42,9 @@
           </div>
           
           <!-- Step 3 -->
-          <div class="bg-white rounded-xl p-8 shadow-stripe hover:shadow-stripe-md transition-all duration-300">
+          <div class="bg-white rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300">
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-stripe-sm">
+              <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">3</span>
               </div>
               <h3 class="text-2xl font-semibold text-gray-900 mb-4">You Access Everything</h3>
@@ -57,7 +57,7 @@
       </div>
       
       <!-- Implementation Details -->
-      <div class="bg-white rounded-xl p-8 lg:p-12 shadow-stripe">
+      <div class="bg-white rounded-xl p-8 lg:p-12 shadow">
         <h3 class="text-3xl font-semibold text-gray-900 text-center mb-12">
           Built for Developers
         </h3>
@@ -96,8 +96,8 @@ sales.transactions.forEach(transaction => {
             <h4 class="text-xl font-semibold text-gray-900 mb-8">Developer Experience</h4>
             <div class="space-y-6">
               <div class="flex items-start">
-                <div class="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-green-100">
-                  <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                <div class="w-8 h-8 bg-blue-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-blue-100">
+                  <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                   </svg>
                 </div>
@@ -108,8 +108,8 @@ sales.transactions.forEach(transaction => {
               </div>
               
               <div class="flex items-start">
-                <div class="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-green-100">
-                  <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                <div class="w-8 h-8 bg-blue-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-blue-100">
+                  <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                   </svg>
                 </div>
@@ -120,8 +120,8 @@ sales.transactions.forEach(transaction => {
               </div>
               
               <div class="flex items-start">
-                <div class="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-green-100">
-                  <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                <div class="w-8 h-8 bg-blue-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-blue-100">
+                  <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                   </svg>
                 </div>
@@ -132,8 +132,8 @@ sales.transactions.forEach(transaction => {
               </div>
               
               <div class="flex items-start">
-                <div class="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-green-100">
-                  <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                <div class="w-8 h-8 bg-blue-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-blue-100">
+                  <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                   </svg>
                 </div>
@@ -144,8 +144,8 @@ sales.transactions.forEach(transaction => {
               </div>
               
               <div class="flex items-start">
-                <div class="w-8 h-8 bg-green-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-green-100">
-                  <svg class="w-4 h-4 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                <div class="w-8 h-8 bg-blue-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-blue-100">
+                  <svg class="w-4 h-4 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                   </svg>
                 </div>
