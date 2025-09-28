@@ -11,80 +11,81 @@ export default {
   theme: {
     extend: {
       colors: {
-        // SIMPLIFIED PALETTE (PREFERRED):
-        // - text-gray-900: Primary text
-        // - text-gray-600: Secondary text
-        // - bg-blue-600: Strategic blue accents and CTAs
-        // - bg-white: Primary background
-        // - bg-gray-50: Subtle background variation
-        
-        // Plaid-inspired color palette
+        // FLUTTERWAVE-INSPIRED COLOR PALETTE
+
+        // Primary brand colors
         primary: {
-          50: '#f0f9ff', // Light cyan background
-          100: '#e0f2fe', // Lighter cyan
-          200: '#bae6fd', // Light cyan
-          300: '#7dd3fc', // Medium cyan
-          400: '#38bdf8', // Bright cyan
-          500: '#0891b2', // Plaid's primary teal
-          600: '#0e7490', // Darker teal
-          700: '#155e75', // Dark teal
-          800: '#164e63', // Very dark teal
-          900: '#0a2540', // Plaid's signature navy
+          50: '#f8fafd', // Light background
+          100: '#f1f5f9', // Lighter background
+          200: '#e2e8f0', // Light surface
+          300: '#cbd5e1', // Medium surface
+          400: '#94a3b8', // Medium gray
+          500: '#00abab', // Flutterwave teal
+          600: '#262c55', // Flutterwave deep blue
+          700: '#1d1d1d', // Dark text
+          800: '#0a0e27', // Flutterwave navy
+          900: '#000000', // Black
         },
-        // Secondary blue palette
+        // Secondary color variations
         secondary: {
-          50: '#f8fafc',
-          100: '#f1f5f9',
-          200: '#e2e8f0',
-          300: '#cbd5e1',
-          400: '#94a3b8',
-          500: '#64748b',
-          600: '#475569',
-          700: '#334155',
-          800: '#1e293b',
-          900: '#0f172a',
+          50: '#f6f9fc',
+          100: '#f2f2f2',
+          200: '#f9f9f9',
+          300: '#828282',
+          400: '#313131',
+          500: '#00abab', // Teal
+          600: '#006aff', // Bright blue
+          700: '#262c55', // Deep blue
+          800: '#0a0e27', // Navy
+          900: '#000000', // Black
         },
-        // Plaid's refined grays
-        gray: {
-          25: '#fcfcfd',
-          50: '#f9fafb',
-          100: '#f3f4f6',
-          200: '#e5e7eb',
-          300: '#d1d5db',
-          400: '#9ca3af',
-          500: '#6b7280',
-          600: '#4b5563',
-          700: '#374151',
-          800: '#1f2937',
-          900: '#111827',
-        },
-        // Plaid accent colors
+        // Accent colors from Flutterwave palette
         accent: {
-          cyan: '#06b6d4',
-          teal: '#14b8a6',
-          blue: '#3b82f6',
-          indigo: '#6366f1',
-          purple: '#8b5cf6',
-          pink: '#ec4899',
+          orange: '#fb9129',
+          green: '#35a162',
+          purple: '#6672c7',
+          blue: '#006aff',
+          pink: '#eb7da7',
+          red: '#eb5757',
+          teal: '#00abab',
+          'soft-pink': '#f1a5c2',
+          'pale-green': '#dcf5e7',
+          peach: '#f3b08c',
         },
-        // Status colors
+        // Background colors
+        background: {
+          primary: '#ffffff',
+          secondary: '#f8fafd',
+          tertiary: '#f6f9fc',
+          muted: '#f9f9f9',
+          dark: '#313131',
+          light: '#f2f2f2',
+        },
+        // Text colors
+        text: {
+          primary: '#000000',
+          secondary: '#1d1d1d',
+          muted: '#828282',
+          inverse: '#ffffff',
+        },
+        // Status colors aligned with Flutterwave palette
         success: {
-          50: '#ecfdf5',
-          100: '#d1fae5',
-          500: '#10b981',
-          600: '#059669',
+          50: '#dcf5e7',
+          100: '#dcf5e7',
+          500: '#35a162',
+          600: '#35a162',
         },
         warning: {
-          50: '#fffbeb',
-          100: '#fef3c7',
-          500: '#f59e0b',
-          600: '#d97706',
+          50: '#fff8e6',
+          100: '#fff0cc',
+          500: '#fb9129',
+          600: '#fb9129',
         },
         error: {
-          50: '#fef2f2',
-          100: '#fee2e2',
-          500: '#ef4444',
-          600: '#dc2626',
+          50: '#ffebeb',
+          100: '#ffd6d6',
+          500: '#eb5757',
+          600: '#eb5757',
         }
       },
       fontFamily: {
@@ -115,15 +116,18 @@ export default {
         'plaid-glow': '0 0 0 1px rgb(8 145 178 / 0.1), 0 4px 6px -1px rgb(8 145 178 / 0.1)',
       },
       backgroundImage: {
-        // Plaid-inspired gradients
+        // Flutterwave-inspired gradients
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'plaid-network': 'linear-gradient(101deg, #07578C 25.49%, #0E94D8 55.78%, #42F0CD 86.17%)',
-        'plaid-radial-teal': 'radial-gradient(circle at top left, #40EED0 2.7%, #2EBBF5 102.04%)',
-        'plaid-hero': 'linear-gradient(135deg, #0891b2 0%, #06b6d4 25%, #3b82f6 50%, #6366f1 75%, #8b5cf6 100%)',
-        'plaid-subtle': 'linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%)',
-        'plaid-dark': 'linear-gradient(135deg, #0a2540 0%, #164e63 50%, #0e7490 100%)',
-        'plaid-accent': 'linear-gradient(90deg, #06b6d4 0%, #14b8a6 50%, #10b981 100%)',
-        'plaid-glow': 'radial-gradient(600px circle at 50% 50%, #0891b240, transparent 40%)',
+        'flutterwave-hero': 'linear-gradient(135deg, #0a0e27 0%, #262c55 25%, #00abab 50%, #35a162 75%, #fb9129 100%)',
+        'flutterwave-teal': 'linear-gradient(135deg, #00abab 0%, #35a162 100%)',
+        'flutterwave-navy': 'linear-gradient(135deg, #0a0e27 0%, #262c55 100%)',
+        'flutterwave-accent': 'linear-gradient(90deg, #00abab 0%, #35a162 50%, #fb9129 100%)',
+        'flutterwave-subtle': 'linear-gradient(135deg, #f8fafd 0%, #f6f9fc 100%)',
+        'flutterwave-glow': 'radial-gradient(600px circle at 50% 50%, rgba(0, 171, 171, 0.15), transparent 40%)',
+        // Original Flutterwave gradients from website
+        'flutterwave-globe': 'linear-gradient(200deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%)',
+        'flutterwave-cards': 'linear-gradient(107.69deg, rgba(44, 21, 63, 0.4) 16.54%, rgba(214, 163, 255, 0) 97.51%)',
+        'flutterwave-steps': 'linear-gradient(81.57deg, rgba(0, 175, 175, 0.3) -2.42%, rgba(105, 255, 162, 0.3) 102.07%)',
       },
       letterSpacing: {
         tighter: '-0.02em',

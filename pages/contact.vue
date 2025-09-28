@@ -6,10 +6,10 @@
     <section class="bg-gradient-to-br from-primary-50 via-white to-primary-100 py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-          <h1 class="text-4xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl font-bold text-text-primary mb-6">
             Contact Us
           </h1>
-          <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+          <p class="text-xl text-text-muted max-w-3xl mx-auto leading-relaxed">
             Get in touch with our team. We're here to help you build breakthrough products with Metristack.
           </p>
         </div>
@@ -24,16 +24,16 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-16">
           
           <!-- Sales & Business Inquiries -->
-          <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8 border border-blue-200">
+          <div class="bg-gradient-to-br from-primary-50 to-primary-100 rounded-2xl p-8 border border-primary-200">
             <div class="flex items-center mb-6">
-              <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mr-4 shadow-md">
+              <div class="w-12 h-12 bg-primary-500 rounded-lg flex items-center justify-center mr-4 shadow-md">
                 <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2-2v2m8 0V6a2 2 0 012 2v6a2 2 0 01-2 2H8a2 2 0 01-2-2V8a2 2 0 012-2V6"></path>
                 </svg>
               </div>
               <div>
-                <h3 class="text-2xl font-semibold text-blue-900">Sales & Business</h3>
-                <p class="text-blue-700 text-sm">Partnership opportunities and pricing</p>
+                <h3 class="text-2xl font-semibold text-primary-800">Sales & Business</h3>
+                <p class="text-primary-600 text-sm">Partnership opportunities and pricing</p>
               </div>
             </div>
             
@@ -174,16 +174,16 @@
         </div>
         
         <!-- Company Information -->
-        <div class="bg-gray-50 rounded-2xl p-8 text-center">
+        <div class="bg-background-secondary rounded-2xl p-8 text-center">
           <div class="max-w-3xl mx-auto">
             <div class="flex items-center justify-center mb-6">
-              <div class="w-12 h-12 bg-primary-600 rounded-lg flex items-center justify-center mr-4 shadow-md">
+              <div class="w-12 h-12 bg-primary-500 rounded-lg flex items-center justify-center mr-4 shadow-md">
                 <span class="text-white font-bold text-xl">M</span>
               </div>
-              <h2 class="text-3xl font-bold text-gray-900">Metristack</h2>
+              <h2 class="text-3xl font-bold text-text-primary">Metristack</h2>
             </div>
             
-            <p class="text-lg text-gray-600 mb-6 leading-relaxed">
+            <p class="text-lg text-text-muted mb-6 leading-relaxed">
               The unified API for African retail data. We're building the infrastructure that enables 
               breakthrough products across fintech, analytics, and commerce.
             </p>
@@ -229,7 +229,7 @@
         
         <!-- Quick Links -->
         <div class="mt-16 text-center">
-          <h3 class="text-2xl font-semibold text-gray-900 mb-8">Need Something Else?</h3>
+          <h3 class="text-2xl font-semibold text-text-primary mb-8">Need Something Else?</h3>
           <div class="grid grid-cols-1 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
             <a href="#" class="bg-white rounded-lg p-4 shadow-sm border border-gray-200 hover:shadow-md transition-shadow group">
               <div class="text-primary-600 group-hover:text-primary-700 font-medium">📚 Documentation</div>

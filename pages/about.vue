@@ -10,11 +10,11 @@
         <div class="absolute inset-0 bg-plaid-glow opacity-20"></div>
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
           <div class="text-center">
-            <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-gray-900 tracking-tight mb-6 stagger-item">
+            <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
               Enabling breakthrough retail solutions,
               <span class="text-primary-500">one API at a time</span>
             </h1>
-            <p class="max-w-3xl mx-auto text-xl text-gray-600 mb-16 leading-relaxed stagger-item">
+            <p class="max-w-3xl mx-auto text-xl text-text-muted mb-16 leading-relaxed stagger-item">
               We experienced the integration challenge firsthand. After months building custom connectors 
               for each platform, we built the infrastructure that powers breakthrough retail solutions. Metristack is that infrastructure.
             </p>
@@ -23,14 +23,14 @@
       </section>
 
       <!-- Our Story Section -->
-      <section class="py-20 bg-gray-50">
+      <section class="py-20 bg-background-secondary">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="grid lg:grid-cols-2 gap-16 items-center">
             <div class="stagger-item">
-              <h2 class="text-3xl font-semibold text-gray-900 mb-6">
+              <h2 class="text-3xl font-semibold text-text-primary mb-6">
                 From integration challenges to infrastructure solutions
               </h2>
-              <div class="space-y-6 text-gray-600">
+              <div class="space-y-6 text-text-muted">
                 <p>
                   In 2023, our team was building breakthrough lending products for retail merchants. We quickly discovered 
                   that every commerce platform—Shopify, Square, Clover, WooCommerce—had different APIs, 
@@ -48,29 +48,29 @@
               </div>
             </div>
             <div class="stagger-item">
-              <div class="bg-white rounded-2xl border border-gray-200 shadow-plaid-lg p-8">
+              <div class="bg-white rounded-2xl border border-primary-200 shadow-plaid-lg p-8">
                 <div class="mb-6">
-                  <h3 class="text-xl font-semibold text-gray-900 mb-4">The opportunity we saw:</h3>
+                  <h3 class="text-xl font-semibold text-text-primary mb-4">The opportunity we saw:</h3>
                   <div class="space-y-3">
-                    <div class="flex items-center text-green-600">
+                    <div class="flex items-center text-success-500">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                         <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
                       Build once, connect to all platforms
                     </div>
-                    <div class="flex items-center text-green-600">
+                    <div class="flex items-center text-success-500">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                         <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
                       Engineers focus on breakthrough features
                     </div>
-                    <div class="flex items-center text-green-600">
+                    <div class="flex items-center text-success-500">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                         <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
                       Launch products in days, not months
                     </div>
-                    <div class="flex items-center text-green-600">
+                    <div class="flex items-center text-success-500">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                         <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                       </svg>
