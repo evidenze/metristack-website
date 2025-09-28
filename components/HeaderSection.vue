@@ -4,11 +4,11 @@
       <div class="flex justify-between items-center py-4">
         <!-- Logo -->
         <div class="flex items-center">
-          <NuxtLink to="/" class="flex items-center space-x-3 hover-lift">
-            <div class="w-32 h-12 flex items-center justify-center">
-              <img 
-                src="~/assets/images/logo.png" 
-                alt="Metristack Logo" 
+          <NuxtLink to="/" class="flex items-center space-x-3">
+            <div class="w-48 h-16 flex items-center justify-center">
+              <img
+                src="~/assets/images/logo.png"
+                alt="Metristack Logo"
                 class="w-full h-full object-contain"
               />
             </div>
