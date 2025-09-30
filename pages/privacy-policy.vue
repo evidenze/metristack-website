@@ -6,7 +6,7 @@
     <section class="bg-gradient-to-br from-primary-50 via-white to-primary-100 py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-          <h1 class="text-4xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl font-bold text-gray-900 mb-6 font-mono">
             Privacy Policy
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -264,6 +264,7 @@ useHead({
   margin-bottom: 1rem;
   border-bottom: 2px solid #f3f4f6;
   padding-bottom: 0.5rem;
+  font-family: 'Azeret Mono', monospace;
 }
 
 .prose h3 {
@@ -272,6 +273,7 @@ useHead({
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  font-family: 'Azeret Mono', monospace;
 }
 
 .prose p {

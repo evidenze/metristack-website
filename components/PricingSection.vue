@@ -2,7 +2,7 @@
   <section id="pricing" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-4xl font-bold text-text-primary mb-6">
+        <h2 class="font-mono text-4xl font-bold text-text-primary mb-6">
           Simple, Transparent Pricing
         </h2>
         <p class="max-w-3xl mx-auto text-xl text-text-muted leading-relaxed">
@@ -15,7 +15,7 @@
         <!-- Free Tier -->
         <div class="bg-white rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300 border border-l-4 border-l-accent-green border-green-100">
           <div class="text-center">
-            <h3 class="text-2xl font-semibold text-text-primary mb-4">Sandbox</h3>
+            <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">Sandbox</h3>
             <div class="text-5xl font-bold text-text-primary mb-2">$0</div>
             <div class="text-text-muted mb-8 font-medium">Forever free development environment</div>
 
@@ -65,7 +65,7 @@
           </div>
 
           <div class="text-center">
-            <h3 class="text-2xl font-semibold text-text-primary mb-4">Startup</h3>
+            <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">Startup</h3>
             <div class="text-5xl font-bold text-text-primary mb-2">$49</div>
             <div class="text-text-muted mb-8 font-medium">per connected store/month</div>
 
@@ -117,7 +117,7 @@
         <!-- Enterprise Tier -->
         <div class="bg-white rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300 border border-l-4 border-l-accent-purple border-purple-100">
           <div class="text-center">
-            <h3 class="text-2xl font-semibold text-text-primary mb-4">Enterprise</h3>
+            <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">Enterprise</h3>
             <div class="text-5xl font-bold text-text-primary mb-2">Custom</div>
             <div class="text-text-muted mb-8 font-medium">Volume discounts available</div>
 
@@ -170,12 +170,12 @@
       <!-- FAQ Section -->
       <div class="bg-background-secondary rounded-xl p-12 shadow-sm">
         <div class="max-w-4xl mx-auto">
-          <h3 class="text-3xl font-bold text-text-primary mb-12 text-center">Frequently Asked Questions</h3>
+          <h3 class="font-mono text-3xl font-bold text-text-primary mb-12 text-center">Frequently Asked Questions</h3>
           
           <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
             <div class="space-y-8">
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">Do you charge per API call?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">Do you charge per API call?</h4>
                 <p class="text-text-muted leading-relaxed">
                   No! We charge per connected store, not per API call. Make as many requests as you need 
                   without worrying about usage limits or surprise bills.
@@ -183,7 +183,7 @@
               </div>
               
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">What counts as a "connected store"?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">What counts as a "connected store"?</h4>
                 <p class="text-text-muted leading-relaxed">
                   One merchant's store on one platform. If a merchant has Shopify + Square, 
                   that's 2 connected stores. Most merchants have 1-3 platforms.
@@ -191,7 +191,7 @@
               </div>
               
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">Is there a setup fee?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">Is there a setup fee?</h4>
                 <p class="text-text-muted leading-relaxed">
                   No setup fees, no onboarding charges. Start with our free sandbox and only pay 
                   when you connect real merchant stores.
@@ -201,7 +201,7 @@
             
             <div class="space-y-8">
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">Can I get volume discounts?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">Can I get volume discounts?</h4>
                 <p class="text-text-muted leading-relaxed">
                   Yes! Contact our sales team for custom pricing if you expect to connect 100+ stores 
                   or need enterprise features. We offer significant volume discounts.
@@ -209,7 +209,7 @@
               </div>
               
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">How quickly can I get started?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">How quickly can I get started?</h4>
                 <p class="text-text-muted leading-relaxed">
                   Most developers are up and running within 15 minutes using our sandbox environment. 
                   Production integrations typically take 1-3 business days depending on the platforms.
@@ -217,7 +217,7 @@
               </div>
               
               <div>
-                <h4 class="text-lg font-semibold text-text-primary mb-3 leading-tight">What support do you provide?</h4>
+                <h4 class="font-mono text-lg font-semibold text-text-primary mb-3 leading-tight">What support do you provide?</h4>
                 <p class="text-text-muted leading-relaxed">
                   All plans include documentation and community support. Paid plans get email support, 
                   and Enterprise customers receive dedicated support with phone and video calls.

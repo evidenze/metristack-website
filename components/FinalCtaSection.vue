@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <!-- Main CTA -->
-        <h2 class="text-4xl lg:text-5xl font-bold text-white mb-8 leading-tight">
+        <h2 class="text-4xl lg:text-5xl font-bold font-mono text-white mb-8 leading-tight">
           Ready to
           <span class="text-primary-500">Build Faster?</span>
         </h2>
@@ -48,7 +48,7 @@
         <!-- Developer Code Example -->
         <div class="bg-primary-700 rounded-xl p-8 max-w-3xl mx-auto mb-16 shadow-lg">
           <div class="text-left">
-            <h3 class="text-xl font-semibold text-text-muted mb-6 text-center">One API call to connect everything</h3>
+            <h3 class="text-xl font-semibold font-mono text-text-muted mb-6 text-center">One API call to connect everything</h3>
             <div class="bg-primary-900 rounded-lg p-6 text-sm overflow-x-auto border border-primary-600">
               <pre class="text-primary-500 font-mono leading-relaxed"><code>curl -X GET "https://api.metristack.com/stores" \
   -H "Authorization: Bearer YOUR_API_KEY"
@@ -73,21 +73,21 @@
             <div class="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-sm">
               <span class="text-white font-bold text-2xl">10x</span>
             </div>
-            <h4 class="text-white font-semibold text-lg mb-2">Faster Development</h4>
+            <h4 class="text-white font-semibold font-mono text-lg mb-2">Faster Development</h4>
             <p class="text-text-muted leading-relaxed">Reduce integration time from months to minutes with our unified API</p>
           </div>
           <div class="bg-primary-700 rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300">
             <div class="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-sm">
               <span class="text-white font-bold text-2xl">20+</span>
             </div>
-            <h4 class="text-white font-semibold text-lg mb-2">Platforms Supported</h4>
+            <h4 class="text-white font-semibold font-mono text-lg mb-2">Platforms Supported</h4>
             <p class="text-text-muted leading-relaxed">Connect to all major retail platforms through one consistent interface</p>
           </div>
           <div class="bg-primary-700 rounded-xl p-8 shadow hover:shadow-lg transition-all duration-300">
             <div class="w-16 h-16 bg-primary-500 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-sm">
               <span class="text-white font-bold text-2xl">24/7</span>
             </div>
-            <h4 class="text-white font-semibold text-lg mb-2">Developer Support</h4>
+            <h4 class="text-white font-semibold font-mono text-lg mb-2">Developer Support</h4>
             <p class="text-text-muted leading-relaxed">Get help when you need it with dedicated support and documentation</p>
           </div>
         </div>

@@ -12,7 +12,7 @@
             </svg>
             Smart Inventory Management
           </div>
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl md:text-5xl font-bold font-mono text-gray-900 mb-6">
             Optimize inventory with intelligent automation
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -64,7 +64,7 @@
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Inventory Management Solutions</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Inventory Management Solutions</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             From automated reordering to demand forecasting, build inventory systems that adapt to your business needs.
           </p>
@@ -296,7 +296,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 class="text-3xl font-bold text-gray-900 mb-6">
+            <h2 class="text-3xl font-bold font-mono text-gray-900 mb-6">
               Build with comprehensive inventory data
             </h2>
             <p class="text-lg text-gray-600 mb-8">
@@ -393,7 +393,7 @@ for (const product of inventory.lowStock) {
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Success Stories</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Success Stories</h2>
           <p class="text-xl text-gray-600">See how retailers are optimizing inventory with Metristack</p>
         </div>
         
@@ -468,7 +468,7 @@ for (const product of inventory.lowStock) {
     <!-- CTA Section -->
     <section class="py-16 bg-gradient-to-r from-purple-600 to-purple-800">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-bold text-white mb-6">
+        <h2 class="text-3xl font-bold font-mono text-white mb-6">
           Ready to optimize your inventory?
         </h2>
         <p class="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">

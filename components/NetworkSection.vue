@@ -2,7 +2,7 @@
   <section class="py-24 bg-gradient-to-br from-background-secondary via-white to-blue-50/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-3xl sm:text-4xl font-semibold mb-6">
+        <h2 class="text-3xl sm:text-4xl font-semibold font-mono mb-6">
           <span class="bg-gradient-to-tr from-accent-orange via-primary-500 to-accent-teal bg-clip-text text-transparent">
             Building Africa's retail data infrastructure
           </span>
@@ -46,7 +46,7 @@
         <!-- Background gradient overlay -->
         <div class="absolute inset-0 opacity-5 bg-flutterwave-accent"></div>
 
-        <h3 class="text-2xl font-semibold text-text-primary text-center mb-8 relative z-10">
+        <h3 class="text-2xl font-semibold font-mono text-text-primary text-center mb-8 relative z-10">
           API connections happening right now
         </h3>
         

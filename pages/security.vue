@@ -6,7 +6,7 @@
     <section class="bg-gradient-to-br from-primary-50 via-white to-primary-100 py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-          <h1 class="text-4xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl font-bold font-mono text-gray-900 mb-6">
             Security
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -325,6 +325,7 @@ useHead({
   color: #111827;
   font-size: 1.875rem;
   font-weight: 700;
+  font-family: 'Azeret Mono', monospace;
   margin-top: 3rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid #f3f4f6;
@@ -335,6 +336,7 @@ useHead({
   color: #1f2937;
   font-size: 1.5rem;
   font-weight: 600;
+  font-family: 'Azeret Mono', monospace;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }

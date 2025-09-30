@@ -10,7 +10,7 @@
         <div class="absolute inset-0 bg-plaid-glow opacity-20"></div>
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
           <div class="text-center">
-            <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
+            <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold font-mono text-text-primary tracking-tight mb-6 stagger-item">
               Enabling breakthrough retail solutions,
               <span class="text-primary-500">one API at a time</span>
             </h1>
@@ -27,7 +27,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="grid lg:grid-cols-2 gap-16 items-center">
             <div class="stagger-item">
-              <h2 class="text-3xl font-semibold text-text-primary mb-6">
+              <h2 class="text-3xl font-semibold font-mono text-text-primary mb-6">
                 From integration challenges to infrastructure solutions
               </h2>
               <div class="space-y-6 text-text-muted">
@@ -50,7 +50,7 @@
             <div class="stagger-item">
               <div class="bg-white rounded-2xl border border-primary-200 shadow-plaid-lg p-8">
                 <div class="mb-6">
-                  <h3 class="text-xl font-semibold text-text-primary mb-4">The opportunity we saw:</h3>
+                  <h3 class="text-xl font-semibold font-mono text-text-primary mb-4">The opportunity we saw:</h3>
                   <div class="space-y-3">
                     <div class="flex items-center text-success-500">
                       <svg class="w-5 h-5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
@@ -88,7 +88,7 @@
       <section class="py-20 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="text-center mb-16">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
+            <h2 class="text-3xl font-semibold font-mono text-gray-900 mb-6 stagger-item">
               Our mission: Enable breakthrough retail innovation
             </h2>
             <p class="max-w-3xl mx-auto text-xl text-gray-600 stagger-item">
@@ -144,7 +144,7 @@
       <section class="py-20 bg-gray-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="text-center mb-16">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
+            <h2 class="text-3xl font-semibold font-mono text-gray-900 mb-6 stagger-item">
               Meet the team solving retail integration
             </h2>
             <p class="max-w-3xl mx-auto text-xl text-gray-600 stagger-item">
@@ -194,7 +194,7 @@
       <section class="py-20 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="text-center mb-16">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
+            <h2 class="text-3xl font-semibold font-mono text-gray-900 mb-6 stagger-item">
               Our values guide everything we build
             </h2>
           </div>
@@ -263,7 +263,7 @@
       <section class="py-20 bg-primary-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div class="max-w-3xl mx-auto">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 stagger-item">
+            <h2 class="text-3xl font-semibold font-mono text-gray-900 mb-6 stagger-item">
               Ready to launch your breakthrough retail solution?
             </h2>
             <p class="text-xl text-gray-600 mb-10 stagger-item">

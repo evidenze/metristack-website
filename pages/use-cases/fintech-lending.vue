@@ -12,7 +12,7 @@
             </svg>
             Fintech & Lending Solutions
           </div>
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl md:text-5xl font-bold font-mono text-gray-900 mb-6">
             Launch instant lending products with real-time retail data
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -64,7 +64,7 @@
     <section class="py-16 bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Fintech Applications</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Fintech Applications</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             From merchant cash advances to invoice financing, build lending products that serve African businesses.
           </p>
@@ -296,7 +296,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 class="text-3xl font-bold text-gray-900 mb-6">
+            <h2 class="text-3xl font-bold font-mono text-gray-900 mb-6">
               Build with real-time data
             </h2>
             <p class="text-lg text-gray-600 mb-8">
@@ -386,7 +386,7 @@ if (creditScore > 650 && metrics.monthlyRevenue > 10000) {
     <section class="py-16 bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Success Stories</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Success Stories</h2>
           <p class="text-xl text-gray-600">See how fintech companies are using Metristack to transform lending</p>
         </div>
         
@@ -461,7 +461,7 @@ if (creditScore > 650 && metrics.monthlyRevenue > 10000) {
     <!-- CTA Section -->
     <section class="py-16 bg-blue-600">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-bold text-white mb-6">
+        <h2 class="text-3xl font-bold font-mono text-white mb-6">
           Ready to launch your fintech product?
         </h2>
         <p class="text-xl text-white mb-8 max-w-2xl mx-auto">

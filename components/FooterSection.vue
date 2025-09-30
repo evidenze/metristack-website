@@ -16,7 +16,7 @@
                 class="w-full h-full object-contain"
               />
             </div>
-            <span class="text-2xl font-bold">Metristack</span>
+            <span class="text-2xl font-bold font-mono">Metristack</span>
           </div>
           <p class="text-text-muted leading-relaxed mb-6 max-w-sm">
             The unified API for retail data. Connect to any commerce platform with a single integration.
@@ -44,7 +44,7 @@
         
         <!-- Use Cases Links -->
         <div>
-          <h3 class="text-lg font-semibold mb-6">Use Cases</h3>
+          <h3 class="text-lg font-semibold font-mono mb-6">Use Cases</h3>
           <ul class="space-y-4">
             <li><NuxtLink to="/use-cases/fintech-lending" class="text-text-muted hover:text-accent-orange transition-colors duration-200">Fintech & Lending</NuxtLink></li>
             <li><NuxtLink to="/use-cases/marketing-automation" class="text-text-muted hover:text-accent-pink transition-colors duration-200">Marketing Automation</NuxtLink></li>
@@ -57,7 +57,7 @@
         
         <!-- Developers Links -->
         <div>
-          <h3 class="text-lg font-semibold mb-6">Developers</h3>
+          <h3 class="text-lg font-semibold font-mono mb-6">Developers</h3>
           <ul class="space-y-4">
             <li><a href="#" class="text-gray-400 hover:text-accent-blue transition-colors duration-200">Documentation</a></li>
             <li><a href="#" class="text-gray-400 hover:text-accent-green transition-colors duration-200">Quick Start</a></li>
@@ -70,7 +70,7 @@
         
         <!-- Company Links -->
         <div>
-          <h3 class="text-lg font-semibold mb-6">Company</h3>
+          <h3 class="text-lg font-semibold font-mono mb-6">Company</h3>
           <ul class="space-y-4">
             <li><a href="#" class="text-gray-400 hover:text-accent-green transition-colors duration-200">About</a></li>
             <li><a href="#" class="text-gray-400 hover:text-accent-orange transition-colors duration-200">Blog</a></li>
@@ -85,7 +85,7 @@
       <!-- Newsletter Signup -->
       <div class="border-t border-gray-800 pt-12 mb-12">
         <div class="max-w-md">
-          <h3 class="text-lg font-semibold mb-4">Stay updated</h3>
+          <h3 class="text-lg font-semibold font-mono mb-4">Stay updated</h3>
           <p class="text-gray-400 mb-6">Get the latest product updates and developer news.</p>
           <form class="flex gap-3">
             <input 

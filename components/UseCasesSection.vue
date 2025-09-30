@@ -2,7 +2,7 @@
   <section id="use-cases" class="py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
-        <h2 class="text-3xl md:text-4xl font-bold text-center text-text-primary mb-4">
+        <h2 class="font-mono text-3xl md:text-4xl font-bold text-center text-text-primary mb-4">
           Breakthrough applications. Built on Metristack.
         </h2>
         <p class="text-lg text-text-muted leading-relaxed max-w-3xl mx-auto mb-12">
@@ -22,7 +22,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-semibold text-text-primary group-hover:text-accent-orange transition-colors">Fintech & Lending</h3>
+                <h3 class="font-mono text-xl font-semibold text-text-primary group-hover:text-accent-orange transition-colors">Fintech & Lending</h3>
                 <p class="text-accent-orange text-sm font-medium">Instant underwriting solutions</p>
               </div>
             </div>
@@ -49,7 +49,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-semibold text-text-primary group-hover:text-accent-pink transition-colors">Marketing Automation</h3>
+                <h3 class="font-mono text-xl font-semibold text-text-primary group-hover:text-accent-pink transition-colors">Marketing Automation</h3>
                 <p class="text-accent-pink text-sm font-medium">Personalized campaigns at scale</p>
               </div>
             </div>
@@ -76,7 +76,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-semibold text-text-primary group-hover:text-accent-green transition-colors">Smart Inventory</h3>
+                <h3 class="font-mono text-xl font-semibold text-text-primary group-hover:text-accent-green transition-colors">Smart Inventory</h3>
                 <p class="text-accent-green text-sm font-medium">Optimized supply chain</p>
               </div>
             </div>
@@ -103,7 +103,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-semibold text-text-primary group-hover:text-accent-purple transition-colors">Retail Analytics</h3>
+                <h3 class="font-mono text-xl font-semibold text-text-primary group-hover:text-accent-purple transition-colors">Retail Analytics</h3>
                 <p class="text-accent-purple text-sm font-medium">Actionable business insights</p>
               </div>
             </div>
@@ -130,7 +130,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-semibold text-text-primary group-hover:text-accent-blue transition-colors">Customer Experience</h3>
+                <h3 class="font-mono text-xl font-semibold text-text-primary group-hover:text-accent-blue transition-colors">Customer Experience</h3>
                 <p class="text-accent-blue text-sm font-medium">Personalized experiences</p>
               </div>
             </div>

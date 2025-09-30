@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">      
       <!-- Company Logos -->
       <div class="bg-white rounded-xl p-8 lg:p-12 shadow-stripe mb-20">
-        <h3 class="text-center text-xl font-semibold text-gray-900 mb-10">
+        <h3 class="text-center text-xl font-semibold font-mono text-gray-900 mb-10">
           Trusted by Innovative Companies
         </h3>
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 items-center">

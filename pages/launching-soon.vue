@@ -35,7 +35,7 @@
         </div>
         
         <!-- Main Heading -->
-        <h2 class="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+        <h2 class="text-5xl md:text-7xl font-bold mb-6 leading-tight font-mono">
           <span class="text-white">
             Seamless access to African retail data
           </span>
@@ -54,7 +54,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">5 Minutes Setup</h3>
+            <h3 class="text-lg font-semibold mb-2 text-white font-mono">5 Minutes Setup</h3>
             <p class="text-gray-400 text-sm">From signup to first API call in under 5 minutes</p>
           </div>
           
@@ -64,7 +64,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">20+ Platforms</h3>
+            <h3 class="text-lg font-semibold mb-2 text-white font-mono">20+ Platforms</h3>
             <p class="text-gray-400 text-sm">Shopify, Square, WooCommerce, and every major platform</p>
           </div>
           
@@ -74,7 +74,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/>
               </svg>
             </div>
-            <h3 class="text-lg font-semibold mb-2 text-white">Real-Time Data</h3>
+            <h3 class="text-lg font-semibold mb-2 text-white font-mono">Real-Time Data</h3>
             <p class="text-gray-400 text-sm">Sales, inventory, customers - all synced instantly</p>
           </div>
         </div>
@@ -82,7 +82,7 @@
         
         <!-- Use Cases Preview -->
         <div class="mb-12">
-          <h3 class="text-2xl font-semibold mb-8 text-white">Powering the Next Generation of Commerce</h3>
+          <h3 class="text-2xl font-semibold mb-8 text-white font-mono">Powering the Next Generation of Commerce</h3>
           <div class="grid grid-cols-2 md:grid-cols-5 gap-4 max-w-2xl mx-auto">
             <div class="text-center">
               <div class="w-12 h-12 bg-white/10 border border-white/30 rounded-xl flex items-center justify-center mx-auto mb-2">

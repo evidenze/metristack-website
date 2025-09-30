@@ -2,7 +2,7 @@
   <section class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
+        <h2 class="font-mono text-3xl sm:text-4xl font-semibold text-gray-900 mb-6">
           The infrastructure layer. <span class="text-primary-500">For all African retail data.</span>
         </h2>
         <p class="text-lg text-plaid-text-muted leading-relaxed max-w-3xl mx-auto mb-8">

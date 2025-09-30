@@ -2,7 +2,7 @@
   <section id="data-types" class="pt-16 pb-0 bg-flutterwave-subtle">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-20">
-        <h2 class="text-3xl md:text-4xl font-bold text-center text-text-primary mb-4">
+        <h2 class="font-mono text-3xl md:text-4xl font-bold text-center text-text-primary mb-4">
           Access any retail data. <span class="text-primary-500">From any platform.</span>
         </h2>
         <p class="text-lg text-text-muted leading-relaxed max-w-3xl mx-auto mb-12">
@@ -21,7 +21,7 @@
               </svg>
             </div>
             <div>
-              <h3 class="text-xl font-semibold text-text-primary">Unified Sales Data</h3>
+              <h3 class="font-mono text-xl font-semibold text-text-primary">Unified Sales Data</h3>
               <p class="text-accent-orange text-sm font-medium">Complete transaction insights</p>
             </div>
           </div>
@@ -30,7 +30,7 @@
             Build comprehensive financial analytics and reporting with standardized data.
           </p>
           <div class="bg-background-secondary rounded-lg p-6 border border-primary-100">
-            <h4 class="font-semibold text-text-primary mb-3">Available Data:</h4>
+            <h4 class="font-mono font-semibold text-text-primary mb-3">Available Data:</h4>
             <ul class="text-sm text-text-muted space-y-2">
               <li class="flex items-center">
                 <svg class="w-4 h-4 text-accent-orange mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -63,7 +63,7 @@
               </svg>
             </div>
             <div>
-              <h3 class="text-xl font-semibold text-text-primary">Real-time Inventory</h3>
+              <h3 class="font-mono text-xl font-semibold text-text-primary">Real-time Inventory</h3>
               <p class="text-accent-green text-sm font-medium">Live stock management</p>
             </div>
           </div>
@@ -72,7 +72,7 @@
             Enable smart inventory optimization and automated reordering systems.
           </p>
           <div class="bg-background-secondary rounded-lg p-6 border border-primary-100">
-            <h4 class="font-semibold text-text-primary mb-3">Real-time Updates:</h4>
+            <h4 class="font-mono font-semibold text-text-primary mb-3">Real-time Updates:</h4>
             <ul class="text-sm text-text-muted space-y-2">
               <li class="flex items-center">
                 <svg class="w-4 h-4 text-accent-green mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -105,7 +105,7 @@
               </svg>
             </div>
             <div>
-              <h3 class="text-xl font-semibold text-text-primary">Customer Profiles</h3>
+              <h3 class="font-mono text-xl font-semibold text-text-primary">Customer Profiles</h3>
               <p class="text-accent-purple text-sm font-medium">360-degree customer view</p>
             </div>
           </div>
@@ -114,7 +114,7 @@
             Build personalized experiences and targeted marketing campaigns.
           </p>
           <div class="bg-background-secondary rounded-lg p-6 border border-primary-100">
-            <h4 class="font-semibold text-text-primary mb-3">Customer Insights:</h4>
+            <h4 class="font-mono font-semibold text-text-primary mb-3">Customer Insights:</h4>
             <ul class="text-sm text-text-muted space-y-2">
               <li class="flex items-center">
                 <svg class="w-4 h-4 text-accent-purple mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -147,7 +147,7 @@
               </svg>
             </div>
             <div>
-              <h3 class="text-xl font-semibold text-text-primary">Order Management</h3>
+              <h3 class="font-mono text-xl font-semibold text-text-primary">Order Management</h3>
               <p class="text-accent-blue text-sm font-medium">Complete lifecycle tracking</p>
             </div>
           </div>
@@ -156,7 +156,7 @@
             Build comprehensive order management and customer communication systems.
           </p>
           <div class="bg-background-secondary rounded-lg p-6 border border-primary-100">
-            <h4 class="font-semibold text-text-primary mb-3">Order Lifecycle:</h4>
+            <h4 class="font-mono font-semibold text-text-primary mb-3">Order Lifecycle:</h4>
             <ul class="text-sm text-text-muted space-y-2">
               <li class="flex items-center">
                 <svg class="w-4 h-4 text-accent-blue mr-2" fill="currentColor" viewBox="0 0 20 20">

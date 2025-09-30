@@ -63,7 +63,8 @@ export default defineNuxtConfig({
   
   googleFonts: {
     families: {
-      'Instrument Sans': [300, 400, 500, 600, 700, 800]
+      'Instrument Sans': [300, 400, 500, 600, 700, 800],
+      'Azeret Mono': [500, 600, 700]
     },
     display: 'swap',
     prefetch: false,

@@ -12,7 +12,7 @@
             </svg>
             Retail Analytics & Business Intelligence
           </div>
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 font-mono">
             Transform data into actionable business insights
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -64,7 +64,7 @@
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Analytics Solutions</h2>
+          <h2 class="text-3xl font-bold text-gray-900 mb-4 font-mono">Analytics Solutions</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             From executive dashboards to detailed operational reports, build analytics that power data-driven decisions.
           </p>
@@ -297,7 +297,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 class="text-3xl font-bold text-gray-900 mb-6">
+            <h2 class="text-3xl font-bold text-gray-900 mb-6 font-mono">
               Build with comprehensive business data
             </h2>
             <p class="text-lg text-gray-600 mb-8">
@@ -394,7 +394,7 @@ const insights = await ai.generateInsights({
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Success Stories</h2>
+          <h2 class="text-3xl font-bold text-gray-900 mb-4 font-mono">Success Stories</h2>
           <p class="text-xl text-gray-600">See how businesses are leveraging Metristack for analytics</p>
         </div>
         
@@ -469,7 +469,7 @@ const insights = await ai.generateInsights({
     <!-- CTA Section -->
     <section class="py-16 bg-gradient-to-r from-orange-600 to-orange-800">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-bold text-white mb-6">
+        <h2 class="text-3xl font-bold text-white mb-6 font-mono">
           Ready to build powerful analytics?
         </h2>
         <p class="text-xl text-orange-100 mb-8 max-w-2xl mx-auto">

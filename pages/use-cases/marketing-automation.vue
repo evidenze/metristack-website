@@ -13,7 +13,7 @@
             </svg>
             Marketing Automation
           </div>
-          <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 class="text-4xl md:text-5xl font-bold font-mono text-gray-900 mb-6">
             Build intelligent marketing campaigns with retail data
           </h1>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -65,7 +65,7 @@
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Marketing Applications</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Marketing Applications</h2>
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             From email campaigns to loyalty programs, build marketing solutions that drive real business results.
           </p>
@@ -297,7 +297,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 class="text-3xl font-bold text-gray-900 mb-6">
+            <h2 class="text-3xl font-bold font-mono text-gray-900 mb-6">
               Power campaigns with customer insights
             </h2>
             <p class="text-lg text-gray-600 mb-8">
@@ -391,7 +391,7 @@ const performance = await analytics.getCampaignMetrics({
     <section class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Success Stories</h2>
+          <h2 class="text-3xl font-bold font-mono text-gray-900 mb-4">Success Stories</h2>
           <p class="text-xl text-gray-600">See how brands are using Metristack for marketing automation</p>
         </div>
         
@@ -466,7 +466,7 @@ const performance = await analytics.getCampaignMetrics({
     <!-- CTA Section -->
     <section class="py-16 bg-gradient-to-r from-green-600 to-green-800">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-bold text-white mb-6">
+        <h2 class="text-3xl font-bold font-mono text-white mb-6">
           Ready to personalize your marketing?
         </h2>
         <p class="text-xl text-green-100 mb-8 max-w-2xl mx-auto">

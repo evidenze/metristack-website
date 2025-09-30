@@ -13,7 +13,7 @@
         </div>
         
         <!-- Main headline -->
-        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
+        <h1 class="font-mono text-4xl sm:text-5xl lg:text-6xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
           Build breakthrough products.
           <span class="text-accent-orange transition-colors duration-500 hover:text-accent-green">Powered by African retail data.</span>
         </h1>

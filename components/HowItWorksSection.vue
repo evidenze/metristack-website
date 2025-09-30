@@ -2,7 +2,7 @@
   <section id="how-it-works" class="py-16 bg-background-secondary">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
-        <h2 class="text-4xl font-bold text-text-primary mb-6">
+        <h2 class="font-mono text-4xl font-bold text-text-primary mb-6">
           How Metristack Works
         </h2>
         <p class="text-xl text-text-muted max-w-3xl mx-auto leading-relaxed">
@@ -19,7 +19,7 @@
               <div class="w-16 h-16 bg-accent-orange rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">1</span>
               </div>
-              <h3 class="text-2xl font-semibold text-text-primary mb-4">Merchant Connects</h3>
+              <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">Merchant Connects</h3>
               <p class="text-text-muted mb-6 leading-relaxed">
                 Your merchant clicks "Connect Store" in your app. They authorize access through our 
                 secure OAuth flow in seconds.
@@ -33,7 +33,7 @@
               <div class="w-16 h-16 bg-accent-blue rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">2</span>
               </div>
-              <h3 class="text-2xl font-semibold text-text-primary mb-4">We Normalize</h3>
+              <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">We Normalize</h3>
               <p class="text-text-muted mb-6 leading-relaxed">
                 Our platform automatically syncs and transforms their data into a unified format. 
                 All platforms, one consistent API.
@@ -47,7 +47,7 @@
               <div class="w-16 h-16 bg-accent-green rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
                 <span class="text-2xl font-bold text-white">3</span>
               </div>
-              <h3 class="text-2xl font-semibold text-text-primary mb-4">You Access Everything</h3>
+              <h3 class="font-mono text-2xl font-semibold text-text-primary mb-4">You Access Everything</h3>
               <p class="text-text-muted mb-6 leading-relaxed">
                 Make a single API call to get sales, customers, products, and more. Same format for every merchant, regardless of their platform.
               </p>
@@ -58,14 +58,14 @@
       
       <!-- Implementation Details -->
       <div class="bg-white rounded-xl p-8 lg:p-12 shadow">
-        <h3 class="text-3xl font-semibold text-text-primary text-center mb-12">
+        <h3 class="font-mono text-3xl font-semibold text-text-primary text-center mb-12">
           Built for Developers
         </h3>
         
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <!-- Left: Code Example -->
           <div>
-            <h4 class="text-xl font-semibold text-text-primary mb-6">Simple Integration</h4>
+            <h4 class="font-mono text-xl font-semibold text-text-primary mb-6">Simple Integration</h4>
             <div class="bg-primary-900 rounded-lg p-6 border border-primary-800">
               <pre class="text-green-400 text-sm font-mono overflow-x-auto"><code>// Initialize Metristack
 const metristack = new Metristack({
@@ -93,7 +93,7 @@ sales.transactions.forEach(transaction => {
           
           <!-- Right: Features -->
           <div>
-            <h4 class="text-xl font-semibold text-text-primary mb-8">Developer Experience</h4>
+            <h4 class="font-mono text-xl font-semibold text-text-primary mb-8">Developer Experience</h4>
             <div class="space-y-6">
               <div class="flex items-start">
                 <div class="w-8 h-8 bg-orange-50 rounded-full flex items-center justify-center mr-4 mt-1 border border-orange-200">

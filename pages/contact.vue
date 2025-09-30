@@ -6,7 +6,7 @@
     <section class="bg-gradient-to-br from-primary-50 via-white to-primary-100 py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-          <h1 class="text-4xl font-bold text-text-primary mb-6">
+          <h1 class="text-4xl font-bold font-mono text-text-primary mb-6">
             Contact Us
           </h1>
           <p class="text-xl text-text-muted max-w-3xl mx-auto leading-relaxed">
@@ -180,7 +180,7 @@
               <div class="w-12 h-12 bg-primary-500 rounded-lg flex items-center justify-center mr-4 shadow-md">
                 <span class="text-white font-bold text-xl">M</span>
               </div>
-              <h2 class="text-3xl font-bold text-text-primary">Metristack</h2>
+              <h2 class="text-3xl font-bold font-mono text-text-primary">Metristack</h2>
             </div>
             
             <p class="text-lg text-text-muted mb-6 leading-relaxed">
@@ -229,7 +229,7 @@
         
         <!-- Quick Links -->
         <div class="mt-16 text-center">
-          <h3 class="text-2xl font-semibold text-text-primary mb-8">Need Something Else?</h3>
+          <h3 class="text-2xl font-semibold font-mono text-text-primary mb-8">Need Something Else?</h3>
           <div class="grid grid-cols-1 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
             <a href="#" class="bg-white rounded-lg p-4 shadow-sm border border-gray-200 hover:shadow-md transition-shadow group">
               <div class="text-primary-600 group-hover:text-primary-700 font-medium">📚 Documentation</div>
