@@ -89,10 +89,10 @@ export default {
         }
       },
       fontFamily: {
-        // Instrument Sans from Google Fonts with fallbacks
-        sans: ['"Instrument Sans"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
-        // Azeret Mono for headers
-        mono: ['"Azeret Mono"', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
+        // Geist from Google Fonts with fallbacks for both sans and headers
+        sans: ['"Geist"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
+        // Geist for headers too (font-mono class)
+        mono: ['"Geist"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
       },
       fontSize: {
         'xs': ['0.75rem', { lineHeight: '1.5' }],
@@ -147,5 +147,15 @@ export default {
   plugins: [
     require('@tailwindcss/forms'),
     require('@tailwindcss/typography'),
+    function({ addBase }) {
+      addBase({
+        'p': {
+          fontWeight: '300', // Light weight for paragraphs
+        },
+        'h1, h2, h3, h4, h5, h6': {
+          fontWeight: '400 !important', // Regular weight for headers - override any font-bold/font-semibold classes
+        },
+      })
+    }
   ],
 }
