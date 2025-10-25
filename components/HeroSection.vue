@@ -3,25 +3,15 @@
     <!-- Main content -->
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-32 lg:pt-32 lg:pb-40">
       <div class="text-center">
-        
-        <!-- Trust badge -->
-        <div class="inline-flex items-center px-3 py-1 rounded-full bg-flutterwave-teal text-white text-sm font-medium mb-8 transition-all duration-500 hover:bg-accent-green hover:scale-105 stagger-item shadow-md">
-          <svg class="w-4 h-4 mr-2 transition-transform duration-300" fill="currentColor" viewBox="0 0 20 20">
-            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
-          </svg>
-          Trusted by 500+ fintech & B2B companies
-        </div>
-        
+
         <!-- Main headline -->
-        <h1 class="font-mono text-4xl sm:text-5xl lg:text-6xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
-          Seamless access to
-          <span class="text-accent-orange transition-colors duration-500 hover:text-accent-green">retail data</span> across Africa
+        <h1 class="font-mono text-3xl sm:text-3xl lg:text-5xl font-semibold text-text-primary tracking-tight mb-6 stagger-item">
+          The Unified API for African Commerce
         </h1>
         
         <!-- Subheadline -->
         <p class="text-lg text-text-muted leading-relaxed max-w-2xl mx-auto mb-8">
-          Metristack connects you to sales, inventory, and customer data 
-          from 20+ African retail platforms. One integration unlocks unlimited possibilities.
+         Metristack API gives you instant, unified access to sales, customers and inventory data from any POS or e-commerce platform across Africa and beyond.
         </p>
         
         <!-- CTA buttons -->

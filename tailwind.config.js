@@ -11,6 +11,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        // Override default black color
+        black: 'rgb(33, 36, 48)',
+        
         // FLUTTERWAVE-INSPIRED COLOR PALETTE
 
         // Primary brand colors
@@ -24,7 +27,7 @@ export default {
           600: '#262c55', // Flutterwave deep blue
           700: '#1d1d1d', // Dark text
           800: '#0a0e27', // Flutterwave navy
-          900: '#000000', // Black
+          900: 'rgb(33, 36, 48)', // Black
         },
         // Secondary color variations
         secondary: {
@@ -37,7 +40,7 @@ export default {
           600: '#006aff', // Bright blue
           700: '#262c55', // Deep blue
           800: '#0a0e27', // Navy
-          900: '#000000', // Black
+          900: 'rgb(33, 36, 48)', // Black
         },
         // Accent colors from Flutterwave palette
         accent: {
@@ -63,7 +66,7 @@ export default {
         },
         // Text colors
         text: {
-          primary: '#000000',
+          primary: 'rgb(33, 36, 48)',
           secondary: '#1d1d1d',
           muted: '#828282',
           inverse: '#ffffff',
@@ -89,10 +92,10 @@ export default {
         }
       },
       fontFamily: {
-        // Geist from Google Fonts with fallbacks for both sans and headers
-        sans: ['"Geist"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
-        // Geist for headers too (font-mono class)
-        mono: ['"Geist"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
+        // Inter from Google Fonts with fallbacks for body text
+        sans: ['"Inter"', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', 'sans-serif'],
+        // Martian Mono for headers (font-mono class)
+        mono: ['"Martian Mono"', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
       },
       fontSize: {
         'xs': ['0.75rem', { lineHeight: '1.5' }],

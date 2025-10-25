@@ -63,7 +63,8 @@ export default defineNuxtConfig({
   
   googleFonts: {
     families: {
-      'Geist': [300, 400, 500, 600, 700, 800]
+      'Inter': [300, 400, 500, 600, 700, 800],
+      'Martian Mono': [300, 400, 500, 600, 700, 800]
     },
     display: 'swap',
     prefetch: false,
